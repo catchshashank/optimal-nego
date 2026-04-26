@@ -1,0 +1,11 @@
+STAGE 2 DIAGNOSTICS
+Sparsity (dense trajectories): 83.5%
+Active dims per turn: 7.59
+BIC scores: {2: np.float64(-499002.5780571296), 3: np.float64(-510228.98387703166), 4: np.float64(-518943.8801155583)}
+Best k: 4
+Spectral radius A: 0.9587
+Log-likelihood: 260581.18
+Mean CV AUC: 0.6702
+Overall AUC: 0.6568
+Emission noise R mean diag: 0.0143
+Transition noise Q mean diag: 0.1905

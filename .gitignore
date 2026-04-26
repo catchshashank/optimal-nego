@@ -1,0 +1,27 @@
+# Data (raw corpus not committed — request from Heddaya et al.)
+data/nego-data-final.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large intermediate files (regenerate by running pipeline)
+stage2/stage2_trajectories.csv
+stage1/stage1_turns_embedded.csv
+stage1/stage1_backchannels.csv

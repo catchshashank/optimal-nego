@@ -1,0 +1,58 @@
+=================================================================
+STAGE 3: BARGAINING ACT ANNOTATION
+Layer 1: Heddaya et al. (2024)  |  Layer 2: Lee & Ames (2017)
+=================================================================
+
+[Step 1] Annotating bargaining acts across 178 conversations...
+  Total turns annotated : 7,565
+  Substantive turns     : 5,802
+
+[Step 2] Layer 1 — Bargaining act coverage:
+  New Offer      :  819 turns  ( 14.1%)
+  Repeat Offer   :  659 turns  ( 11.4%)
+  Push           :  615 turns  ( 10.6%)
+  Comparison     : 1025 turns  ( 17.7%)
+  Allowance      :  162 turns  (  2.8%)
+  End            :  450 turns  (  7.8%)
+
+  Multi-act turns   :  928 (16.0%)
+  No-act turns      : 3450 (59.5%)
+
+[Step 3] Layer 2 — Push sub-type distribution:
+  push_constraint          :   75 (12.2% of Push turns)
+  push_disparagement       :   17 (2.8% of Push turns)
+  push_neutral             :  523 (85.0% of Push turns)
+
+  Comparison sub-type distribution:
+  comparison_price         :  547 (53.4% of Comparison turns)
+  comparison_quality       :  295 (28.8% of Comparison turns)
+  comparison_mixed         :  183 (17.9% of Comparison turns)
+
+[Step 4] Buyer vs Seller act profiles:
+
+  BUYER (2948 turns):
+    New Offer      :  459 ( 15.6%)
+    Repeat Offer   :  340 ( 11.5%)
+    Push           :  316 ( 10.7%)
+    Comparison     :  504 ( 17.1%)
+    Allowance      :   93 (  3.2%)
+    End            :  223 (  7.6%)
+
+  SELLER (2854 turns):
+    New Offer      :  360 ( 12.6%)
+    Repeat Offer   :  319 ( 11.2%)
+    Push           :  299 ( 10.5%)
+    Comparison     :  521 ( 18.3%)
+    Allowance      :   69 (  2.4%)
+    End            :  227 (  8.0%)
+
+[Step 5] Act frequency by outcome (substantive turns):
+  Push: sale=11.3%  no-sale=9.3%  Δ=+2.0pp
+  Comparison: sale=18.8%  no-sale=15.8%  Δ=+3.0pp
+
+[Step 6] Push sub-type by outcome:
+  push_constraint          : sale=1.32%  no-sale=1.24%  Δ=+0.09pp
+  push_disparagement       : sale=0.24%  no-sale=0.38%  Δ=-0.14pp
+  push_neutral             : sale=9.75%  no-sale=7.71%  Δ=+2.04pp
+
+[Step 7] stage3_annotated.csv saved: (7565, 18)
