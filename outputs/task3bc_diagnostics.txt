@@ -1,0 +1,69 @@
+=================================================================
+TASK 3B: TACTIC × LATENT STATE OVERLAY
+TASK 3C: HORSE RACE REGRESSION
+=================================================================
+
+Merged dataset: (5802, 25)
+Conversations: 178
+Sale rate: 59.0%
+
+─────────────────────────────────────────────────────────────────
+TASK 3B — Tactic → Latent State Shift (z_t → z_{t+1})
+─────────────────────────────────────────────────────────────────
+
+  Mean shift in dominant z-dimension per act:
+  Act                           N  Dom dim  Mean shift       z_t     z_t+1
+  --------------------------------------------------------------------
+  push_disparagement           17      z_1   -0.18813↓  -1.22298  -1.41111
+  comparison_mixed            183      z_4   -0.12719↓  -0.17063  -0.29782
+  push_constraint              74      z_3   +0.08661↑  -0.02855   0.05805
+  allowance                   153      z_3   -0.06329↓  -0.37000  -0.43329
+  comparison_quality          295      z_4   -0.05940↓  -0.11221  -0.17161
+  end                         397      z_1   -0.05369↓  -0.80132  -0.85502
+  push_neutral                517      z_4   -0.05222↓  -0.08406  -0.13629
+  new_offer                   805      z_4   -0.04833↓  -0.00515  -0.05348
+  comparison                 1019      z_4   -0.04498↓  -0.00102  -0.04600
+  push                        608      z_3   +0.04058↑  -0.19975  -0.15918
+  repeat_offer                609      z_3   +0.03431↑  -0.15002  -0.11571
+  comparison_price            541      z_2   +0.03254↑   1.08562   1.11816
+
+  Acts moving toward SALE signature (decreasing z_1/z_3):
+    push_disparagement        z_1  shift=-0.18813
+    allowance                 z_3  shift=-0.06329
+    end                       z_1  shift=-0.05369
+    new_offer                 z_1  shift=-0.04198
+    comparison_quality        z_1  shift=-0.03753
+
+─────────────────────────────────────────────────────────────────
+TASK 3C — Horse Race Regression (4 nested models)
+─────────────────────────────────────────────────────────────────
+
+  Extracting feature sets...
+  Price features  : 9
+  SSM features    : 20
+  Tactic features : 18
+
+  Running 5-fold stratified CV...
+
+  ┌─────────────────────┬──────────┬──────────┬──────────┬──────────┐
+  │ Model               │ N feats  │ Mean AUC │  Std AUC │ Ovrl AUC │
+  ├─────────────────────┼──────────┼──────────┼──────────┼──────────┤
+  │ M1_price            │        9 │   0.5390 │   0.0654 │   0.5391 │
+  │ M2_ssm              │       20 │   0.5511 │   0.0578 │   0.5449 │
+  │ M3_price_ssm        │       29 │   0.5144 │   0.0486 │   0.5195 │
+  │ M4_full             │       47 │   0.5512 │   0.0486 │   0.5402 │
+  └─────────────────────┴──────────┴──────────┴──────────┴──────────┘
+
+  KEY RESULTS:
+  SSM adds to price          : M3 - M1 = -0.0246
+  Tactics add to price+SSM   : M4 - M3 = +0.0368
+  Full linguistic channel    : M4 - M1 = +0.0122
+  Emotion alone vs price     : M2 - M1 = +0.0121
+
+  ✓ Linguistic channel (SSM + tactics) adds +0.0122 AUC above
+    price features alone. The language channel is non-trivial.
+
+  Files saved to /content/optimal-nego/outputs/
+  task3b_tactic_shifts.csv
+  task3c_horse_race.csv
+  task3c_features.csv

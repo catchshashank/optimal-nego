@@ -1,0 +1,24 @@
+STAGE 2 DIAGNOSTICS
+==================================================
+Dense trajectory sparsity  : 91.5%  (Stage 1: 94.9%)
+Active dims per turn       : 1.96  (Stage 1: 1.17)
+
+BIC model selection:
+  k=2: BIC=-709590.3
+  k=3: BIC=-716841.5
+  k=4: BIC=-723689.1 <- best
+
+Best k                     : 4
+Final log-likelihood       : 362953.77
+Spectral radius A          : 0.9526
+Transition noise Q (mean)  : 0.3634
+Emission noise R (mean)    : 0.0068
+
+Outcome prediction (logistic, 5-fold CV):
+  Mean CV AUC              : 0.5731
+  Overall AUC              : 0.5752
+
+Baselines:
+  Manzoor et al. AUC t=60s : 0.9400 (fine-tuned GPT-4.1)
+  NL replication AUC t=90s : 0.7530 (zero-shot GPT-4o)
+  Stage 2 SSM emotion AUC  : 0.5752 (no price info)
