@@ -31,8 +31,8 @@ np.random.seed(42)
 # CONSTANTS
 # ─────────────────────────────────────────────────────────────────────────────
 
-DATA_PATH   = '/mnt/user-data/uploads/nego-data-final.csv'
-OUT_DIR     = '/mnt/user-data/outputs/'
+DATA_PATH   = '/content/data/nego-data-final.csv'
+OUT_DIR     = '/content/outputs/'
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # SST threshold: dimensions with split-half r > 0.05 are retained
