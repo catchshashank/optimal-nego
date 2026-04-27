@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 warnings.filterwarnings('ignore')
 np.random.seed(42)
 
-OUT = '/mnt/user-data/outputs/'
+OUT = '/content/outputs/'
 
 EMOTION_DIMS = ['amusement','anger','annoyance','approval','caring','confusion',
     'curiosity','desire','disappointment','disapproval','disgust',
