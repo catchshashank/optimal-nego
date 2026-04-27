@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 warnings.filterwarnings('ignore')
 np.random.seed(42)
 
-OUT = '/content/outputs/'
+OUT = '/content/optimal-nego/outputs/'
 
 EMOTION_DIMS = ['amusement','anger','annoyance','approval','caring','confusion',
     'curiosity','desire','disappointment','disapproval','disgust',
@@ -54,7 +54,7 @@ print('STAGE 2: COUPLED SSM ON SST EMOTIONAL TRAJECTORIES')
 print('='*60)
 
 print('\n[Step 1] Building dense emotion trajectories...')
-df = pd.read_csv('/mnt/user-data/uploads/nego-data-final.csv')
+df = pd.read_csv('/content/optimal-nego/data/nego-data-final.csv')
 df['text'] = df['text'].fillna('').astype(str)
 df['is_bc'] = df['text'].apply(lambda t: len(t.strip())<=3 or bool(BC_RE.match(t)))
 

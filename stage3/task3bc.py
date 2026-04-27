@@ -42,7 +42,7 @@ import warnings, re, os
 warnings.filterwarnings('ignore')
 
 np.random.seed(42)
-OUT_DIR = '/mnt/user-data/outputs/'
+OUT_DIR = '/content/optimal-nego/outputs/'
 
 # ─────────────────────────────────────────────────────────────────────────────
 # LOAD AND MERGE

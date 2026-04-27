@@ -42,8 +42,8 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
-DATA_PATH = '/content/data/nego-data-final.csv'
-OUT_DIR   = '/content/outputs/'
+DATA_PATH = '/content/optimal-nego/data/nego-data-final.csv'
+OUT_DIR   = '/content/optimal-nego/outputs/'
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # ─────────────────────────────────────────────────────────────────────────────
