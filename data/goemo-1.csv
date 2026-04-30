@@ -1,0 +1,989 @@
+conv_id,turn_id,role,word,speaker_id,duration_min
+100,0,seller,Hello Hello,1,8.199
+100,1,buyer,Hi how are you,0,8.199
+100,2,seller,Good how are you,1,8.199
+100,3,buyer,Not bad you're in New Haven,0,8.199
+100,4,seller,Um No I'm actually off campus at the,1,8.199
+100,5,buyer,moment Mhm Yeah I just thought you did actually,0,8.199
+100,6,seller,Oh just Mhm All right,1,8.199
+100,7,buyer,Well so you wanna do I need to start us off or do you want to start us,0,8.199
+100,8,seller,off I think you should come in with the initial offer,1,8.199
+100,9,buyer,"Sure I'll start at 200,500",0,8.199
+100,10,seller,"All right I'm gonna have to say no to that Mhm I'm asking for 2 40,000 for the house Um I think that's a fair price Given the given the accommodations it's a four bedroom place with a recreation room 2.5 bathrooms Low level style Um It's one of the one of the nicer homes in the neighborhood I think That to 40,000 is an appropriate amount to be asking for a house like",1,8.199
+100,11,buyer,this Yeah I really like the house but I'm just thinking about some of the other houses and um when I visited them I really enjoyed it as well And um even though yours I think is slightly bigger than um and one of them I just can't justify buying your house for for that much So mm me I think I would be willing to go two Well is there is there a price within the 220s that would be good for you,0,8.199
+100,12,seller,Um I think that's closer to what I'm looking for,1,8.199
+100,13,buyer,Um,0,8.199
+100,14,seller,"um So what what is your Why should you only pay to 20,000 for this house",1,8.199
+100,15,buyer,Well I'm willing to say it let me just feeling fully transparent I think like um this is a lovely house Um I want to make sure you get the best deal for it When I'm looking at some of the other houses I see that per square foot it's coming about to like um 120 $24 per square foot And so for me you know again like you have a lovely house and I think 129 is the best I can do and I just want to be fully transparent Um I'm not trying to like familiar or anything but 1 29 is what I'm comfortable paying It's around the same price per square foot as the other homes Um And that's probably the highest I can go It is the highest I can go actually,0,8.199
+100,16,seller,Yeah I understand Um I do I do see what you're saying um in terms of the price per square foot in um in other homes in the in the neighborhood and I agree that um somewhere around 1 29 is is appropriate Um,1,8.199
+100,17,buyer,29 is my final offer I couldn't go any higher than that 2 to 3 to 29 91 29 to 29 Yeah,0,8.199
+100,18,seller,I think the the accommodations though I mean the home is newly decorated and has not one but two fireplaces finished hardwood floors I mean it's it's it's great like A detached garage 2.5 car garage I think I understand that you said to 29 is your final offer but I would be willing to go to 2:30 PM,1,8.199
+100,19,buyer,I can't do that To 29 is going to be my absolute top You know you have a great home But I mean the 2 13 houses really appealing to me as well And it's like it's close to the school it's also close to the park um In 229 is just my personal limit and I'm just not comfortable going anything above that Mhm,0,8.199
+100,20,seller,Mhm I think if you're also considering the 2 13 house with 17 15 square feet um the price per square foot on that house is um sorry is 124.37 which um is actually the lowest price per square foot for any of the similar houses on the market in the area And if we if we take that low end and multiplied by the square footage of the house that we are considering today it comes out to 2 29 5 92 I would be willing to go to 2:29 500 I think that's that's going to be my final offer,1,8.199
+100,21,buyer,So anything else we can negotiate I really think I just can't pay anything about 10-29 I'm thinking Mhm With the paper the house on Sure Is there anything not related to the austin price that That I could get to you because I can't come up above the 2:29,0,8.199
+100,22,seller,Yeah I'm sorry Could you repeat that You just cut out a little,1,8.199
+100,23,buyer,bit um,0,8.199
+100,24,seller,Yeah go,1,8.199
+100,25,buyer,ahead I'm longer I don't want to get all the cash and you are relocation fees as well as your next house But from the house I am only I'm only able to pay to 29 Yeah,0,8.199
+100,26,seller,Okay I'll take 2:29,1,8.199
+101,0,buyer,Okay I recorded too,0,11.259
+101,1,seller,Okay great,1,11.259
+101,2,buyer,Um So does the buyer start this time also hold on,0,11.259
+101,3,seller,Ah Yeah I don't know I think the seller starts Um So I think I can um get this started here Uh So my offer for this lovely home with a convenient location and lovely amenities um is 240,1,11.259
+101,4,buyer,2 20,0,11.259
+101,5,seller,Okay let's see what we can do here Um Well as you know this is a very nicely located home with a very spacious layout 1846 sq ft Many bedrooms as well as a recreation room You can use that for a family You can turn that into um you know uh a lounge of some form movie theater even uh and 2.5 bathrooms Um We are looking at a nice um somewhat vintage type of home built in 1947 So it has a lot of history and character to it um that uh perhaps a younger home may not have Um And as you know this is a great neighborhood within walking distance of plenty of uh restaurants easy transportation to get to work Um And enviably note located near the Hastings and centennial Park's,1,11.259
+101,6,buyer,um For my market research I'm seeing homes for 1875 sq ft that are selling for 233,0,11.259
+101,7,seller,Yes but do you have further detail,1,11.259
+101,8,buyer,on those homes Yeah These are similar homes in the neighborhood um with similar configurations,0,11.259
+101,9,seller,Yeah You have the specifics on those homes,1,11.259
+101,10,buyer,I don't have specifics but they are close enough that I can decide to buy somewhere else for a larger for a larger square footage,0,11.259
+101,11,seller,I see,1,11.259
+101,12,buyer,these are comparable homes,0,11.259
+101,13,seller,but without knowing the specifics it is a bit hard to tell if they're missing certain features that would bring up the value of the home such as my home Sorry could you say that again,1,11.259
+101,14,buyer,to 25 Mhm 2 to 5,0,11.259
+101,15,seller,Oh I'm afraid That's not quite what I think the value of this home would be Well,1,11.259
+101,16,buyer,this home has been on the market for a long time and I'm pretty sure you want to get rid of it,0,11.259
+101,17,seller,Oh but I don't want to get rid of this lovely home at giveaway price It's a giveaway,1,11.259
+101,18,buyer,prices very competitive for a market we're in right now,0,11.259
+101,19,seller,I'm not certain that it is giving a,1,11.259
+101,20,buyer,parent downturns in the current market situations,0,11.259
+101,21,seller,but at a price like that it would just make more economic sense to me to hold on to the house um and find a seller who would um better appreciate its value Mhm Mhm Oh I don't know I think I think the house is worth at least 2 30 2,1,11.259
+101,22,buyer,2.3 No I'm sticking up to 25,0,11.259
+101,23,seller,"Okay well I think as you said if so the house you mentioned um of 18 75 square feet is 2 33 600 And this home is only What I would say 30 square feet less So I don't think 30 fewer square feet translates to a whole What is that $8,000 difference",1,11.259
+101,24,buyer,Square feet can be expensive Mm,0,11.259
+101,25,seller,"But I don't think I I agree on that but I don't think 30 translates to $8,000 less",1,11.259
+101,26,buyer,one moment Like see some computations So according to my computations I think I'm keen to do to 28,0,11.259
+101,27,seller,2 28 I appreciate your coming up on that and I will take that into consideration uh throughout the rest of our negotiations Um May I ask why you're interested in um this home and this area,1,11.259
+101,28,buyer,Okay Why I'm interested Um Yeah well I think it's an optimal area in Center Hill Um Yeah it has a number of bedrooms that I need,0,11.259
+101,29,seller,Um,1,11.259
+101,30,buyer,I think would be a great single family home for guests for people of kids for couples for people to grow in There's fireplaces,0,11.259
+101,31,seller,Yes People do love the fireplaces,1,11.259
+101,32,buyer,appliances and eating kitchen,0,11.259
+101,33,seller,Yes The appliances are very convenient not having to go through all the additional costs of buying further appliances and dealing with those installations,1,11.259
+101,34,buyer,So I still stick of 2:28,0,11.259
+101,35,seller,Yeah I see Well I think given the amenities you've listed and your desire to purchase the home with such characteristics I think perhaps the price could better reflect that desire,1,11.259
+101,36,buyer,Please also know we're in a pandemic and I'm trying to save money too,0,11.259
+101,37,seller,Certainly Absolutely I do understand Um But I don't think,1,11.259
+101,38,buyer,there are many other home buyers during this time and I'm sure you can use the money as quickly as you can get it to If we come to a negotiation please note this is being paid in all cash,0,11.259
+101,39,seller,Oh I see Well I was you know going to offer you um perhaps uh financing in case you know as you said during the pandemic in case that would be an issue for you know for your economic situation I can certainly be flexible with payment installations over time But um now that you mentioned you have flexibility to pay in all cash I'm led to believe that you can move up a bit on price if you are in a financial position to pay upfront in cash I do have a budget Um So let me um you know review the home again and see if we can come to a more mutually agreeable outcome,1,11.259
+101,40,buyer,So the final price I'm willing to go up to is 2:30 PM,0,11.259
+101,41,seller,Oh I see Mhm I do appreciate your coming up Um And I think that is a uh that is a much appreciated offer from where we began this process,1,11.259
+101,42,buyer,Yeah Are you going to take the 2:30,0,11.259
+101,43,seller,Um Give me 1 2nd here too Um Review the options as you know this home is very near and dear to my heart having lived here all my life Yeah Yeah Oh,1,11.259
+101,44,buyer,all right wait sorry I didn't hear did you say something,0,11.259
+101,45,seller,Oh no no Um I uh after much consideration um I believe that we can reached that agreement Um at 2:30,1,11.259
+104,0,buyer,Hello,0,4.104
+104,1,seller,Hi Yes,1,4.104
+104,2,buyer,how's it going,0,4.104
+104,3,seller,Good how are you,1,4.104
+104,4,buyer,Pretty good So uh so you have a house for sale,0,4.104
+104,5,seller,"Yeah so we have a house that's like really good It's in the nice neighborhood and just plenty amenities available including like about four bedrooms recreation room master bedroom fireplaces The outside amenities also have include like a brick fixture So I would like to ask for a price of at least 240,000 Which is a good price for this size square footage",1,4.104
+104,6,buyer,Right But yeah I was actually looking at other listings in the neighborhood and uh your property is a more expensive Uh and also it was built in 1947 Is that correct,0,4.104
+104,7,seller,Yes,1,4.104
+104,8,buyer,So that's not that's not really a new was really looking for kind of a newer home So if you could but it's the location is good If you could come down on that price that would be maybe we could make a deal,0,4.104
+104,9,seller,So what kind of price range are you looking for,1,4.104
+104,10,buyer,Uh Mhm Let's say uh like 2 25 somewhere in that range uh well we're not that far apart to 40 Well,0,4.104
+104,11,seller,well I'll have to say that adults built a little earlier The square feet is approximately the same as neighbor homes with similar characteristics Like another home of 1920 sq ft Also asked for around 2:39 600 And So I think we should I could give you maybe five or 1000 off But,1,4.104
+104,12,buyer,Yeah Yeah that's not really Yeah I mean I understand what you're saying with the square footage but you know an older home is going to require uh like more maintenance and you know probably things will need to be replaced and you know and that's the costs You know that costs too So I'm just thinking about the upkeep is going to be more,0,4.104
+104,13,seller,"And I offer you so to 35,000 is too much for you",1,4.104
+104,14,buyer,Uh I could I could do let's say uh two thirties Perhaps,0,4.104
+104,15,seller,I'll have to say maybe like 232 just because the square footage for a house of 18 75 is already 2 33 And this one also has 18 46 square footage so it's only off by like 30 square feet And you have to keep in mind that this also comes with like restaurants and transportation's within walking distance and a garage as well,1,4.104
+104,16,buyer,Yeah I just concerned you know with a 70 year old house you know that's I mean like 2 30 is really you know and then probably I'm going to have to spend you know another tend to do some kind of upgrades to kind of get it up to kind of modern standards So you know like like 2 30 Anything about 2 30 is really pushing it for me But I could I could do through 30,0,4.104
+104,17,seller,Okay I'll accept your offer to dirty again,1,4.104
+105,0,buyer,Hey can you hear me,0,10.104
+105,1,seller,Hi Yeah I'm just trying to figure out how to um do you save the recording after two done Where is there a button Once it starts,1,10.104
+105,2,buyer,it looks like it's already recording,0,10.104
+105,3,seller,Okay,1,10.104
+105,4,buyer,All right Yeah I just hit record as well,0,10.104
+105,5,seller,Okay So I guess it gives the option after Um How are you,1,10.104
+105,6,buyer,Good How are you,0,10.104
+105,7,seller,Pretty good Um So also I guess you're you're starting first,1,10.104
+105,8,buyer,"Yes Um So very interested in this home that you are selling And I have um run some comments based on neighboring homes Um And I understand that The asking price is 240,000 which was above the comments that I've seen in neighboring areas that have sold for similar prices Um and that are roughly the same square footage So I was hoping you could tell me a little bit more about the house and I guess why you're selling",0,10.104
+105,9,seller,"Um Okay Well so I consulted with a real estate investor And um they said that the house is worth um 240,000 and um well I guess one of the reasons why it is that price is that um currently there this appears to be the house that uh one of the only ones that's on the market as a lot of a lot of other houses haven't sold in a long time And um I personally I think that this is um in like one of the best areas and um sorry there's so much information Um Well I mean it has it's very spacious Um There are four bedrooms recreation room in 2.5 bedrooms Um Yeah It's in a great location it's near two parts um Lots of restaurants and transportation within walking distance amazing landscaping Um It was built in 1947 but it's been the outside has been updated and um it looks it doesn't it definitely doesn't look outdated and there's a beautiful landscaping Um And I mean those are just a few of the amenities Um",1,10.104
+105,10,buyer,"Yeah Okay Well yeah look I'm a big fan of the house I clearly want to make something work here So um you know I think the challenge that I have is uh you know the asking price is um kind of far above what other houses have been sold for and you know definitely recognize that um You know the inventory is low right now on the market Um but you know from what I understand on the description the square footage is 1846 square feet And um you know based on the asking price of 240 that's $130 per square foot Which you know based on um what My realtor has provided me with neighboring houses in this area of similar size Those have all been selling in the kind of 118 $220 Price per square foot range Um And so as a result I think you know despite the you know I love that the house is updated and such Um But I think you know in terms of an initial offer I think I'm going to come in at Um 217,000 um 500 Oh which is right Which is you know just based on the comments that I have I think what would be a fair price for the problem",0,10.104
+105,11,seller,"Yeah And I mean I can see why you would say that but I think it's also um quality over quantity Um So I understand that the um the square footage uh is less than um some of the other house or sorry it's roughly the same but the price is higher Um But it is basically one of the only options that is currently being sold and um I think it has a lot of amazing amenities and not only that but the location is um really great They say like one of the biggest parts of real estate is like one of the most important parts is location and um that really hits a lot of the marks Um But I would be since my asking price is 240,000 um I would be willing to um go down to let's say um 237,000",1,10.104
+105,12,buyer,"got it Um Okay well I appreciate that Um I think that that's certainly you know step in the right direction Um But I think you know still pretty far apart um You know from what I and again you know I think it's not just the square footage but you know I think at least based on the concept that I have um you know they're like you know there's another house that sold just a block away so you know I definitely recognize that the area is great Um But I guess you know if I and again um looking at um you know what I think would be fair I think I can step up to and again this would be based off of um Kind of $120 per square foot maybe like two Um 220,000",0,10.104
+105,13,seller,"Okay Um Yeah I mean I think that that is um also like a step in the right direction Um It's I mean I think it's it's a beautiful house and um it's it's not an easy thing to let go of so I want to make sure that I Um that I sell it for a good price and um you know again I understand that the square footage is a little bit um the price per square footage is a little bit higher Um But I do think that it has amazing amenities and um it you know it's a split level style and um you know the four bedrooms and 2.5 bathrooms is Uh huh that's you know that's a lot of rooms plus the one rec room um And the kitchen is large it also comes with all of the appliances um And um the master bedroom has an entire wall of closet and detailed master bathroom Um And not only that but it has to um fireplaces and the hardwood floors are finished So you know I think like a lot of people when when they first buy a house um you know it's not just the initial price that they're paying for They also have to do a lot of remodeling and I think that when you move into this house um you wouldn't have to do any of that because it's basically all set Um And so um I was thinking maybe so I Well with my offer to 237 Um what do you think of um 235,000",1,10.104
+105,14,buyer,Um Well it's still higher than what I would like Um I mean ideally I just want to get a deal done So um what if I meet you halfway and just do 2 27 500 I think that would be my best and final,0,10.104
+105,15,seller,Um mm Okay what do you think of um 2 29 thousands,1,10.104
+105,16,buyer,What about 2 28 and we call it,0,10.104
+105,17,seller,Um Yeah that works,1,10.104
+124,0,buyer,Oh come on,0,6.247
+124,1,seller,"Oh okay So hi I'm your I'm your seller and Hope all is well I'd really like to sell my lovely home for $240,000",1,6.247
+124,2,buyer,Okay Um The most I was willing to pay was 220 That was kind of my range,0,6.247
+124,3,seller,"Mhm Well I would let you know that this house is currently 1,843 sq ft of space And compared to other neighboring homes in the area the house that's 1,875 square feet is um Already costed $233,600 But I will let you know that this house is already very modern It's been unfurnished um and already decorated The kitchen comes with appliances as well and there's four bedrooms um one recreation room and lots of space So um considering the fact that has a great view and it's in the hot popular city of Ohio I would say that um it's really well worth the value of it So for considering your um Your price range I will be willing to bump it down to $235,000",1,6.247
+124,4,buyer,unfortunately Um It's just out of my budget so Maybe I can add 5000 to what I was thinking but I can't go any higher than that,0,6.247
+124,5,seller,And what will that be,1,6.247
+124,6,buyer,"Um 200 and 30,000",0,6.247
+124,7,seller,"30,000 Okay Um That's pretty good Um I understand your situation of the price but um um could you tell me maybe what's up like outside of the price Could you tell me what are some concerns and hesitations you have about this home maybe",1,6.247
+124,8,buyer,Um Well I see that there are four bedrooms and there's one recreation room But I have for kids Mhm And they're all in their teenage years so I don't want to force any of them to share a room,0,6.247
+124,9,seller,So it really is just,1,6.247
+124,10,buyer,in terms of logistics Like I see the value and the worth of the house but if you're trying to sell it to me I can't afforded at that price And I did look at this house because I saw that some of the neighboring homes were on the cheaper side Um There's one for A selling price of 213 ah 1000 about Um So that's why I was thinking I could max by one at 230 because I know there's another one that's 230 3000 in the same area,0,6.247
+124,11,seller,Oh yeah definitely I totally understand Especially if you have kids in their teenage years they would all definitely love to have their own bedroom But I will ensure you that um most likely I'm assuming your kids will be taking online classes and that's why you would prefer that personal bedroom But I will assure you that actually this house does have a large eat in kitchen So there's an there's also the recreation room so there's lots of space actually to have your personal area for your work office So that can be very accommodating for all your Children It's just it's just really a matter of like the beds where like they will be sleeping So it's a possibility that maybe to your Children can share a room but they will be still given that option to have their own personal workspace out either in the living room in the kitchen area So um How about 230 2000,1,6.247
+124,12,buyer,"Mm Let's see I mean it also is about money Like I did think about the bedrooms but because of the pandemic my work was cut to part time So it's my husband is the breadwinner right now and he alone can pay for this And because of my credit score I can't take out um a larger loan and I already and I can't refinance So as much as I wish I could pay more 230,000 is already me pushing my budget",0,6.247
+124,13,seller,"Oh yes I totally understand I'm really sorry to hear about that And if anything I really care about you finding the right home especially during these situations where we're dealing with economic upsides and downsides Um If I do ensure you though that's this house you're going to be provided with the maximum comfort of your family And it will be rewarding in the long run especially since if you're um the look out for a job you're on your um comfortable to be working from home And despite your husband um not being the breadwinner Um Having the comfort of this style home possibly near work Especially since in a major city town area It will be rewarding in the long run and I feel like um Yes I would really love to accommodate you guys for this So how about just $231,000",1,6.247
+124,14,buyer,"Um I appreciate the flexibility here Um And Just for myself like I would totally pay more if I had it Like I'd be willing to pay even $10,000 more if I had it Unfortunately I just don't have it Like I don't have the means to pay for it Um So I think I can only really do 230,000",0,6.247
+124,15,seller,"All right well okay 230,000 It is",1,6.247
+129,0,buyer,Yeah I started recording as well Cool,0,4.373
+129,1,seller,Um I think what does it say Does buyer go first Right Uh huh,1,4.373
+129,2,buyer,You get I'm not sure last time it was the seller that one pretty straight,0,4.373
+129,3,seller,So for me it was a buyer actually,1,4.373
+129,4,buyer,Well um if,0,4.373
+129,5,seller,you can if you want to start,1,4.373
+129,6,buyer,"Yeah sure So um I'm interested in buying your house Um I've been reading into it And I was thinking that 200,000 is a fair price",0,4.373
+129,7,seller,"200,000 Yeah",1,4.373
+129,8,buyer,"2,00,000",0,4.373
+129,9,seller,"wow Um so I put a lot of work into this house Um and I also have friends who are in real estate and they've said that 240,000 um is a good price So I mean I know it's been on the market for a little so I was going to lower it a little offering you a good deal Yeah",1,4.373
+129,10,buyer,So you said it's been on the market for a little bit continue y it's been on the market,0,4.373
+129,11,seller,"Um I think just like with Covid right now people are a little uncertain of their futures Um And aren't so cute you know they don't know where they'll be So buying a home is kind of a big risk right now However if you're looking for a home which it sounds like you are um it's definitely beautiful house beautiful neighborhood Um and it's a pretty good bang for your buck So I'm willing to take off a couple of $1,000",1,4.373
+129,12,buyer,How many is a couple,0,4.373
+129,13,seller,Like two,1,4.373
+129,14,buyer,"2000 Yeah I don't know I don't know if I can do that Um you know I mean I I understand this house has been on the market for long uh And I know you're probably eager to sell it like getting getting this house um Off the mark is definitely a big win It's just I can't and in full [PERSON] by this house for that much when obviously when Covid is going around um the housing market's up in the air there's so much uncertainty with our With a new president we don't know what's really going to happen um for all I know is I I could buy it today for 240,000 and the prices plummet So you're looking from my perspective as well Um And I know there's been other other other houses on the market um There's a um there's one with with larger square foot about almost 100 square foot larger that that sold for less than what you're offering Um And 100 square foot is a sizable amount of space so like I I just think I don't think I can pay 240,000 you",0,4.373
+129,15,seller,"know what's the long you know what's the lowest I would go Um Well I'm just looking again also at the other homes and not like for comparable spaces Um And I think the lowest I go is um 230,000 used on the other",1,4.373
+129,16,buyer,"whatever How about this What if you met in the middle I know you want I want 200,000 You want 240,000 I'll put an extra 20,000 more if you take off 20,000 I think I think that's that's a fair trade I'm coming up halfway You're going down halfway",0,4.373
+129,17,seller,Um How about 2 25 Mm I just I put in a lot of work into this house um and it's you know hardwood floors newly decorated to working fireplaces uh separate garage It really has all the all the bells and whistles as they say So I just I want to make sure I'm getting my Yeah Okay Is that your final price That's the lowest I would go Yeah,1,4.373
+129,18,buyer,Alright I'll buy it to 25,0,4.373
+131,0,buyer,How are you both recording,0,13.91
+131,1,seller,Yeah I think so,1,13.91
+131,2,buyer,Okay cool I've started and I think you started So do you want to just start now Sure Music Um What,0,13.91
+131,3,seller,Well I'd love to hear your best offer,1,13.91
+131,4,buyer,"Um I'm going to start off with 213,000 that I'm willing to pay",0,13.91
+131,5,seller,Well I think I'm going to stick with our initial asking price because you know this is a really beautiful property,1,13.91
+131,6,buyer,I just think that Oh sorry go ahead,0,13.91
+131,7,seller,Oh just you know I know that there are some camps out there but they're from a little while ago You know it's been a while since property is sold in this,1,13.91
+131,8,buyer,area,0,13.91
+131,9,seller,Um so we're pretty confident in our place,1,13.91
+131,10,buyer,"I do feel like even though I agree it's a nice area it's a bit overpriced Um I mean speaking of comparisons the one I'm looking at right now listing 89 I was 6898 The selling price they're asking for is approximately 213,000 Um it has 1715 square feet And I've done the math That's a difference of 131 sq ft The difference in your asking price And my offering is to 27,000 So that equates to about $206 per square foot Um That's the difference and I think that's a reasonable difference to make",0,13.91
+131,11,seller,Yeah the market has been weirdly slow around here lately Um So we could come down slightly uh into the high two thirties let's say 2 39,1,13.91
+131,12,buyer,Um I'll raise it 2 - 14,0,13.91
+131,13,seller,Mhm Um Right we're gonna Stick with 2 39 I think,1,13.91
+131,14,buyer,I just don't Can you,0,13.91
+131,15,seller,tell me more about Can you tell me more about what you like about the house Like what what's drawing you to it,1,13.91
+131,16,buyer,Yeah Um I do like the fact that you know four bedrooms and a recreation I think the recreation is nice Um And the inside amenities all seemed great I love the master bedroom Um The outside I think is more of a bonus The necessity for me Really,0,13.91
+131,17,seller,cool Um And what's your offer at this point,1,13.91
+131,18,buyer,Well you said you were only willing to go down to 39 I still think that's a little bit high Um I mean I'm willing to up it again 2-15,0,13.91
+131,19,seller,All right I'll have to think about that for a second It's a funny I feel like we're you know just because of our schedules we have to fit this negotiation into one phone call Uh huh Um You know looking over these numbers I think We would be comfortable coming down to 2:38 I can see what you mean about the square footage but you know this is also a really special house just in itself It's a you know it's one of the nicest homes in this neighborhood,1,13.91
+131,20,buyer,I mean to elaborate more on that comparison then since two you're you are mentioning the neighborhood and one of the other neighboring homes a lot listing 89 8614 That's selling price is uh about around to their 9 to 40 but that has 1920 square feet which is considerably more So I'm just not seeing an asking price of what you're asking for since there is such a discrepancy unless you know something you know else other than the square footage,0,13.91
+131,21,seller,Yeah I mean square footage isn't everything although I mean you know it's legitimate you're looking for what you're looking for Um So I think we can We can bring it down a little more let's say 2:37 Mm Does that mean you feel more comfortable with,1,13.91
+131,22,buyer,I'll bump mine up too Mm Let's say 2 18,0,13.91
+131,23,seller,I see,1,13.91
+131,24,buyer,The thing is a lot of what's listed here can be found in the other homes which already described the discrepancies that I see And as for the outside amenities I mean restaurants and transportation within walking distance near Hastings and centennial Park's We're all in the same neighborhood That's TRUE for every house So I really don't see anything that sets this house apart other than the square footage And I do think it is overpriced on that front,0,13.91
+131,25,seller,I think we can come down to 2 36 but that's really mm hmm A bit of a reduction from our initial listing price Um but we I think we can come down that far for you And I know that you know um,1,13.91
+131,26,buyer,"I mean to 36 is still above the asking price for one of the other neighboring houses that has 1875 which is still larger Um So again I mean I still haven't heard any benefits to this home besides the square footage that sets it apart from the others in the same neighborhood And if the 18 75 house is going for 2 33,000 I mean I did that It just doesn't make sense to me",0,13.91
+131,27,seller,Well keep in mind those camps are from you know some time ago and the market has come up a bit since then So you know the exact square put in price We can't we can't just match some previous exactly,1,13.91
+131,28,buyer,I mean I understand that it's we also go But I mean just recent events I would think that the housing market is lower than anything,0,13.91
+131,29,seller,It's actually been really hot overall It's sort of unusual but it's been so quiet around here Um everyone's looking to you know to kind of nest and and settle down Uh,1,13.91
+131,30,buyer,that seems odd seeing as the economy is the way it is with the pandemic,0,13.91
+131,31,seller,It is weird Um yeah,1,13.91
+131,32,buyer,"I just can't I mean I just haven't heard a justification for why I should be paying more than $233,000 for an 18 46 square foot house that really is similar to the other houses I mean even if we take into consideration that the housing market might have gone up I mean it's several square feet difference And you're asking me to pay several 1000 higher",0,13.91
+131,33,seller,Mm hmm I mean I think,1,13.91
+131,34,buyer,"are 220,000 But that's already a lot more than my starting ones And I still like I said I still haven't heard justification for your asking price",0,13.91
+131,35,seller,I mean I think the interior features are worth a closer look because it's TRUE you know this is a nice neighborhood in general There are lots of nice hazards here But we put a good amount of work into the house since we've been here You know we have uh you know everything is all spruced up We've got this great kitchen with new appliances and uh you know a super nice master bedroom with the other,1,13.91
+131,36,buyer,houses not have eaten kitchens with appliances,0,13.91
+131,37,seller,not necessarily I you know as up to date as ours,1,13.91
+131,38,buyer,"I don't know that I really care up to date I mean kitchen is a kitchen I can purchase the appliances myself are cheaper than the several $1,000 difference in asking price",0,13.91
+131,39,seller,Um well let's see what we can do for you Um,1,13.91
+131,40,buyer,"I'm at 220,000 now just to you know reiterate that",0,13.91
+131,41,seller,Yeah Thanks Um I think we can come down to 2 33,1,13.91
+131,42,buyer,to 33,0,13.91
+131,43,seller,Is that sweeten things at all Because I know you are interested in the,1,13.91
+131,44,buyer,"House I am but to 33 I mean the 1875 house was 230,600 You're asking me to buy $600 less Just $600 less When the difference in footage is 30 square feet I mean really that's how the whole room",0,13.91
+131,45,seller,What if we went down to uh 2 31 500,1,13.91
+131,46,buyer,To 31 500,0,13.91
+131,47,seller,Yeah,1,13.91
+131,48,buyer,I'll bump myself up to 222,0,13.91
+131,49,seller,I just don't see how we can go down quite that low Mm That's gonna be tricky for us,1,13.91
+131,50,buyer,"Yeah Well with four minutes left on the clock I'll give you and given a little I'll say I just had to 23 3 Right let me let me say I'll go up to 2 24 to 24,000",0,13.91
+131,51,seller,All right Um Yeah let's see How about 2 30 500,1,13.91
+131,52,buyer,I'm Gonna stick it to 2 24,0,13.91
+131,53,seller,We can't go quite that low Um You know and make and make it make sense for us but I will go down to 2:29 and 500,1,13.91
+131,54,buyer,What about 2 25,0,13.91
+131,55,seller,It's still a bit on the low side Um,1,13.91
+131,56,buyer,mm It's just that to 25 I've already gone gone up so much for my initial offering price and I think I've explained why,0,13.91
+131,57,seller,Let me just think for a minute about what we can make work out Mhm Especially since the market is fairly hut,1,13.91
+131,58,buyer,interesting Mhm,0,13.91
+131,59,seller,We can go down to 2:28 Yeah mm,1,13.91
+131,60,buyer,What about 2 26,0,13.91
+131,61,seller,Could you agree it to 27,1,13.91
+131,62,buyer,2 26 500,0,13.91
+131,63,seller,Um I don't think we just for dignity sake I don't think we can go down that way,1,13.91
+131,64,buyer,It was 227 years absolute final offer,0,13.91
+131,65,seller,Yeah that's our final offer Hm,1,13.91
+131,66,buyer,Yeah mm Let me think,0,13.91
+131,67,seller,because you know that is a substantial reduction from our asking price but we know you like the place and we wanted to go to someone good,1,13.91
+131,68,buyer,Yeah and I appreciate that It's just like you know it's hard to part with my hard earned cash You know when I just I just still feel like I've given so much more in these negotiations Um Really I just feel like I've been giving a lot leeway here,0,13.91
+131,69,seller,Well that is the nature of negotiation I mean you know I think we both changed from our initial positions a good amount But to 27 seems like a fair price to me,1,13.91
+131,70,buyer,Well we have about a minute left on the clock Um are you still set on 227,0,13.91
+131,71,seller,I am so I'm definitely set on it Yeah,1,13.91
+131,72,buyer,No 2 26 500,0,13.91
+131,73,seller,No no we can't do that,1,13.91
+131,74,buyer,"Mm hmm No in that case I will take the to 27,000",0,13.91
+133,0,seller,Hello Hi Hi how I guess we can get started,1,1.729
+133,1,buyer,"Oh um so is it the same as the previous front Right the same thanks So then I will um offer um $110,000 Mhm",0,1.729
+133,2,seller,Oh okay Um Okay Uh Off from um to 40 1000,1,1.729
+133,3,buyer,Okay I'll keep my offer to 10,0,1.729
+133,4,seller,Uh huh How about 2:30 1000,1,1.729
+133,5,buyer,I offered to 28 mm,0,1.729
+133,6,seller,I'm sorry what was yours,1,1.729
+133,7,buyer,"to 28 100,220",0,1.729
+133,8,seller,Um Okay that sounds good Okay Yeah,1,1.729
+149,0,seller,Hi,1,4.312
+149,1,buyer,Hello,0,4.312
+149,2,seller,Hi can you hear me,1,4.312
+149,3,buyer,Yes,0,4.312
+149,4,seller,I can What is your starting budget I guess for the house,1,4.312
+149,5,buyer,Um I'm really looking to pay around 2:15 Okay,0,4.312
+149,6,seller,"Um I can tell you a little bit about the house so it's it's a great location Um It has hardwood floor that has two fireplaces 4 bedrooms Um It's very well located and compared to other houses in the area um I think this house is the price that I'm offering I think is a good price So I'm aiming to sell for around 240,000 Mhm",1,4.312
+149,7,buyer,Well that's that's I mean it's over my budget Sounds perfect you know starting out of family and um it's I've seen the house it's exactly what I'm looking for Um I know that there are other homes that are comparable in the area that ranged from You know 13-2 39 6 I think was the highest Well yours actually was the highest that I saw it,0,4.312
+149,8,seller,Um,1,4.312
+149,9,buyer,I mean I actually could uh I could probably do 2 18 Yeah,0,4.312
+149,10,seller,"Okay Um Yeah I really I don't want to sell the house Below 230,000 because I think that it has you know all the futures and compared to other houses in the neighborhood I think this house has some additional amenities that make it stand out So I wouldn't want to go below 230,000 But do you want to reach an agreement together That",1,4.312
+149,11,buyer,Sounds pretty yeah That sounds pretty reasonable Could you do to 25,0,4.312
+149,12,seller,I definitely want to go below 2:30 PM Mm 2.3 Still puts it cheaper than two of the other houses on the market,1,4.312
+149,13,buyer,Let me think about it,0,4.312
+149,14,seller,Okay,1,4.312
+149,15,buyer,And I know it starts to feel a little uncomfortable with the The monthly mortgage payments for me Could you do to 26,0,4.312
+149,16,seller,How about I think agreement we can reach I can do to 29 but I don't want to go lower than that,1,4.312
+149,17,buyer,Mm hmm,0,4.312
+149,18,seller,"Yeah I think it's a great price for the house still you know it's like 11,000 cheaper than the asking price and it's less expensive and other houses in the era and you said it has everything you're looking for So I think if we can agree on 229 could be a good compromise Kind of like meeting in the middle",1,4.312
+149,19,buyer,2 28 Can you do to to 28 If you can do to 28 we got a deal,0,4.312
+149,20,seller,Um I think I think 29 is really a fair price for the house,1,4.312
+149,21,buyer,All right Let me talk to my wife,0,4.312
+149,22,seller,Okay Tell her it's an amazing house Has everything you're looking for You're getting a deal on it Pretty substantial deal,1,4.312
+149,23,buyer,All right I'll take it We'll take it for 2:29,0,4.312
+152,0,buyer,Uh huh,0,14.634
+152,1,seller,Uh huh Uh Hello,1,14.634
+152,2,buyer,can,0,14.634
+152,3,seller,you hear me now,1,14.634
+152,4,buyer,Yes can you hear me Yes,0,14.634
+152,5,seller,this is a little strange and I'm in a kind of a public place but um I hit record I guess we're recording,1,14.634
+152,6,buyer,yep I'm trying to hit record too and save it in the right place Let's see,0,14.634
+152,7,seller,This is very confusing for a technophobe like me,1,14.634
+152,8,buyer,Yeah Um I don't know why,0,14.634
+152,9,seller,Yeah and I'm not sure about save I didn't see an option that said save It just says recording,1,14.634
+152,10,buyer,right I wonder if my zoom is not Maybe Mhm Yeah thank you Only did,0,14.634
+152,11,seller,Mhm So you're not able to record,1,14.634
+152,12,buyer,Yeah but I think you're recording already so I think that will be fine Okay well,0,14.634
+152,13,seller,hello Um I understand you're interested in buying my house,1,14.634
+152,14,buyer,"I am yes I've heard that Centerville is a great neighborhood and I got a chance to check out the place last week and you know enjoy it I do have some concerns So um you know it's it's a little bit old for my liking I was looking for a more modern place And the flooring I thought had some issues but um I understand the asking price is $240,000 but I think that's probably a little out of my budget right now Could I propose maybe 220,000",0,14.634
+152,15,seller,Oh that's way under what I can afford to take for it Um Just so you know it is just about the nicest house in the neighborhood it's close to the park as I'm sure you know and that's a big plus it's got a couple of fireplaces all of the landscaping is completely done Um patio a lot of things that would not have to be upgraded now depending on your taste you might want to modernize a room or two But honestly part of the charm of this house is how well it was built when it was built I mean this is this is if you want to leave this to your grandkids or your great grandkids in your will you'll be able to do that with this house Not every house in this neighborhood has that advantage,1,14.634
+152,16,buyer,Right That's I mean it's actually not really my intention I think I was more attracted by the neighborhood and the ability to potentially rent this out as a sort of investment But you know one thing I was wondering do you know the restaurants when I visited that It didn't seem like they were actually walking distance are they,0,14.634
+152,17,seller,Some are it depends we have um a whole variety of um ethnic restaurants in the area Some are walking summer driving So it really depends on your preferences Some of the nicest ones that are within walking distance are like the bistro's um have a lot of varieties some of them offer live entertainment,1,14.634
+152,18,buyer,mm interesting And With space ever an issue you know 1846 sq ft is what I'm reading on this briefing here You know it was that it was it's a little a little larger than I was hoping for,0,14.634
+152,19,seller,Um was space ever an issue Meaning did we ever feel like we had too much space,1,14.634
+152,20,buyer,Right You know it's a lot of stuff like that,0,14.634
+152,21,seller,Um It's actually the maintenance I have found it to be surprisingly easy I've only ever owned one house before this and it was charming but something of a nightmare because it was much older and needed a lot of upkeep This one has not been problematic in that same way Um I think one of the biggest advantages because I have a um home business is to have that detached 2.5 car garage and I've not used it for the vehicles I've used it for the business but that in itself could be um with a little bit of uh changing of the of the configuration of it could probably be rented as an in law if you would want to do that,1,14.634
+152,22,buyer,"Interesting Well I think I could do 225,000",0,14.634
+152,23,seller,Yeah I can't drop the price that low at least Not yet I mean you could come back to me and see if it's still on the market in a month or two I'd like to get it sold but I'm not desperate,1,14.634
+152,24,buyer,Yeah month you know a month might be a little while I only have nine minutes and 30 seconds but um Maybe maybe due to 27,0,14.634
+152,25,seller,I would need to get it pretty close to 2:40 in order to be able to agree So you could either tell me now what your absolute max price is and I could say yes or no and we could just leave it at that Um Or I could tell you what my absolute minimum price uh would be ahead and thought about that But we could try doing it that way if you like,1,14.634
+152,26,buyer,"Yeah I mean I can go with my my absolute max would be 230,000",0,14.634
+152,27,seller,Yeah See my absolute minimum is probably closer to two 33 I was thinking too so I was thinking I really didn't want to go below 2:35 Um But if that would be a big stretch for you given that you've really expressed more of an interest in the house um than anyone I've talked to so far I could do to 33 if you think you could swing that,1,14.634
+152,28,buyer,I I think my my max like it's you know in terms of the range 230 is the most That makes sense for me,0,14.634
+152,29,seller,Yeah Yeah I would really need to go a little higher than that given all of the amenities Um Which none of that Well there are a couple of houses in the neighborhood that have some of the amenities that we have Um But there's no house that matches this in terms of the extras Like I said two fireplaces is most of the houses in this neighborhood don't even have one Um And that that has been a big selling point In fact I have somebody else who is maybe going to come back with a higher for based on the fireplaces Yeah they they they have been maintained,1,14.634
+152,30,buyer,I'm sure I'm sure they're nice Everyone loves a good fireplace I just unfortunately because I'm looking at it as sort of a side investment that I'm planning to rent out anything about 230 just makes it sort of fiscally irresponsible for me,0,14.634
+152,31,seller,Yeah No I understand that And this may not be the house for you I understand that too Um I I was thinking it would be more of a a family somebody who actually wants to occupy it at least part time because it's just such a nice place and I don't know much about the rental market in Centerville Um I have never rented So I don't know this might bring you a higher rental price than you think because the university is nearby and like I said all the amenities it could be worth more than you think,1,14.634
+152,32,buyer,"Yeah No I mean hopefully we will be regardless But 2 30 I think is the most you know when I look at you know the prices of other neighboring homes that were sold not the asking price but selling prices 230,000 is right in the market range too That's why I'm a little I'm just wondering why you're not willing to Go to 230,000 Just if we look at sort of the square feet A home with 1715 square feet was sold for 213,000 And 1875 sq ft was 233,000",0,14.634
+152,33,seller,And I know those folks and I know that that place was not kept up See that's what you might be getting into here because if you're going to rent this you wanted to be in excellent shape when you rent it out so that you protect your investment and that house I know the one you're talking about and it was not kept up nowhere near like this plus the investment that we made in the uh the landscaping makes it so much more desirable and gives it so much more privacy than most of the houses in the area And that I think would be a huge um selling point if you will for you in terms of finding an upscale renter,1,14.634
+152,34,buyer,Um Yeah no those are those are good points I think for for me actually though just because as a landlord will have to purchase renter's insurance anyways to make sure that you know any tenants don't mess up anything in the house And so even though you know I I trust that you put a lot of effort into sort of beautifying the space and making it as livable as possible You know a lot of that actually I'm sort of assuming that you know the condition that I sell the house and won't be as good as as it is now and so the starting point really doesn't matter as,0,14.634
+152,35,seller,much Yeah I got it I you know I can't um really put myself in your place because I've not been a landlord like I said I've never rented um I could you know I might be able to come down a little bit more but I think If if you could manage 325 I could do it If you don't think you can manage 325 I would probably wait at least another month to find out who else might be interested As I said somebody has already expressed an interest in coming back with a higher offer than they had made originally,1,14.634
+152,36,buyer,really What was their original offer,0,14.634
+152,37,seller,It was 2 30,1,14.634
+152,38,buyer,interesting Well I'm still sort of where where I'm settled just in terms of the budget and how much how much it would be sort of wise to spend on an event on an investment like,0,14.634
+152,39,seller,this Yeah I got it Um I know that if you had you considered the fact that because we have this garage that is so large it's basically a living space It's not livable yet because it's still a more of a warehouse um but easily converted into a second livable space and therefore a second um income from the property from rental income,1,14.634
+152,40,buyer,"Right You know Yeah I trust it's nice and hopefully it will raise the rental price but you know I had an absolute maximum and sort of maybe this was a poor negotiating tactic but I was transparent and $230,000 is the max",0,14.634
+152,41,seller,Yeah I understand and I'm I'm trying to be just as transparent with you and tell you I really can't go quite that low Um And I think 2325 is for this particular house if we hadn't maintained it so much meticulously and put so much into landscaping and um and maintaining the grounds in addition to the house itself Um I would probably say okay but I'm really hopeful to do better and I understand your predicament but I have a feeling that somebody who wanted to occupy it um might understand a little bit better the the deal that they're getting That they would be getting at 2325,1,14.634
+152,42,buyer,Well they won't I mean they don't really care about this number but if it's so I mean I'm just interested why are you selling if you put so much work into making it such a perfect home,0,14.634
+152,43,seller,Well that's an excellent question And because I need to be closer to my family in Wisconsin Um I know most people my age head for the sunshine but I am heading the other direction because the time has come when the older members of my family are failing the need to to bond and help each other out and share resources So I believe it or not I'm off to Wisconsin but there's no hurry especially now because it is winter So if I wait until spring um that that'll work for me,1,14.634
+152,44,buyer,Yeah You know it's nice I guess you get to move closer to family,0,14.634
+152,45,seller,Yeah Yeah That's important to me And you know and and I'm going to miss this I am absolutely going to miss this house I've had it for several years I really thought I would be retiring here Um But with the with with all the changes that have come about as a result of Covid obviously many people's lives are changing and you kind of figure out what's really important so and I can also do much better in Wisconsin financially Um This is a very expensive part of the country to live in as I'm sure you know,1,14.634
+152,46,buyer,"that's that's TRUE Right You know you know hopefully in a post covid world you'll be able to visit What if we did 230,000 and you get free month of rental time",0,14.634
+152,47,seller,wow Now that's brilliant Um Let me just consider that for about 10 seconds Sure why not,1,14.634
+154,0,buyer,Hello Hi Hi,0,6.022
+154,1,seller,"how are you I am pretty good Okay I'm asking $250,000 for the house",1,6.022
+154,2,buyer,2 50,0,6.022
+154,3,seller,Really good location But yeah beyond that it's a great house and frankly I think I could sell it for more but,1,6.022
+154,4,buyer,Um I don't think so I think I think 250 for the size of the house is very high,0,6.022
+154,5,seller,You know sizes is uh one element of many and certainly not the most important This is a great location it has beautiful details finished hardwood floors fireplaces Uh Math beautiful master bathroom You know it's it's like I said it's it's really good sell for more than that but i,1,6.022
+154,6,buyer,it would never sell it will never sell for more than that based on the science If you look at the square feet signs of other houses in the area um They would sell for around the 230 mark Mhm,0,6.022
+154,7,seller,Okay Um He I mean if you look at the square foot size sure do you live in a square foot size I'm I know what the house looks like You've come to see the house Uh You know it's it's a great house Like I said it's right by transportation by two parks it has great details The other houses might have the square footage but they don't have all that But listen what were you thinking I mean give me a range here,1,6.022
+154,8,buyer,Well definitely to 50 is way too high I was thinking more with 220 mark Just because the house is quite old Its 1947 So that means it's been around for over 50 years So that's that's quite old You know,0,6.022
+154,9,seller,"Well houses don't depreciate over time they appreciate over time So I'm not saying exactly where you're coming from there Um And it's been renovated very recently it has all appliances newly decorated Uh It adds if you're looking for a McMansion but it certainly adds character But I'll tell you what you're offering 220,000 which by the way is a joke but I will humor you and bring my offer down to 242,000",1,6.022
+154,10,buyer,The reason I said it's old as older houses generally aren't as well maintained They don't keep their heat as well because they're not insulated They just used concrete and brick so they're not insulated So you have to spend a lot more on your heating bills for instance And they're a lot harder to maintain than a new build So I could I could possibly go up 2-5,0,6.022
+154,11,seller,Well I I'm just not going to sell it for 2 to 5 I mean I guess it comes down to if you want the house Um you know there's no there's no other houses like it uh near centennial Park near the transportation near the restaurants Uh You know there's if there was a lot of other options I'd say go ahead But You know this is a really unique find 240 2000 is generous What did you offer,1,6.022
+154,12,buyer,At 2-5,0,6.022
+154,13,seller,Okay Well if you stay at that price we're not gonna reach an offer So give me another give another press,1,6.022
+154,14,buyer,I mean if you look at the other houses in the area which are selling which have sold Um they go for around about that price range So the best I can do will be 2-5,0,6.022
+154,15,seller,All right well and then you'll have to find another house,1,6.022
+154,16,buyer,If I put another 55 grand If I put another five K On top of that and we go up to 2 30 that would be the maximum that I'd be willing to pay for this house in this area,0,6.022
+154,17,seller,If you put another 8K On there I'll give you it right away,1,6.022
+154,18,buyer,Eight now can do eight I'll leave it at 2 30 I can't play more than that because I won't I'll just be losing money on that,0,6.022
+154,19,seller,How about this You're offering to 30,1,6.022
+154,20,buyer,so you keep cutting out Can you say that again,0,6.022
+154,21,seller,Yeah I said You're offering to 30 I'll give you the house for 2:32 Otherwise we won't have a deal,1,6.022
+154,22,buyer,2 32 That that two K Is gonna kill me because I just I won't be able to make any money Let's just let's just okay let's split it let's let's say 231,0,6.022
+154,23,seller,I'm gonna say it to 3 to I'm sorry,1,6.022
+154,24,buyer,You don't want to go home from me 231 Are we going to argue,0,6.022
+154,25,seller,Every 250 So I've brought it down quite a lot,1,6.022
+154,26,buyer,And I'm paying a lot more than my my price which I was willing to pay which was 2:20 PM,0,6.022
+154,27,seller,I like I said I 232 is uh is my bottom line,1,6.022
+154,28,buyer,"Let's make it 23,150 And you've got a deal I'll shake your hand right now",0,6.022
+154,29,seller,I like I said 2:32 is my bottom Okay fine All right We have a deal,1,6.022
+162,0,seller,record this [PERSON] already Go ahead,1,5.109
+162,1,buyer,Okay Bring it Um I guess my initial offer based on similar houses in the area Would be to 22,0,5.109
+162,2,seller,222 is uh not something I can do completely without it's totally out of the realm of possibility Um Before before we go forward is there like do is priced the most important thing for you or do you have like amenities that you need,1,5.109
+162,3,buyer,Well I guess for me I would definitely say that you know prices something that's not insignificant I'm definitely on a budget Yeah Um Although I do you know I really like this house and I like the location It's yeah price is definitely an issue,0,5.109
+162,4,seller,Okay I'm just curious if like any amenities that increase your bonus at all or no just the price,1,5.109
+162,5,buyer,Um I definitely think that the location you know i the location is important to me So um I'd be willing to go up to like 2:25 What would be more your ballpark,0,5.109
+162,6,seller,So my asking price is 2 40 That's like my asking price on the sheet Um I have room for negotiation because I realized that to 40 is a premium relative to other um places um Other similar houses but that's what I'm looking for 240,1,5.109
+162,7,buyer,Yeah I guess for me you know the uh there's another house that's listed at 2:39 and it's almost 1000 square feet larger,0,5.109
+162,8,seller,Um So is your um are you more concerned about price per square foot than,1,5.109
+162,9,buyer,definitely I'm looking for something that is um Rumi I'm looking to rent eventually and you know being able to live there in one bedroom and rent and half space I think is very important,0,5.109
+162,10,seller,Okay so uh price so you're saying that At about double the square footage that it's 239 because I I'm I think there's a I don't know if we have the same listings Um,1,5.109
+162,11,buyer,Oh sorry 100 square feet more,0,5.109
+162,12,seller,100 square feet or I don't know if we have the same listings Um I have a listing that's at 1920 square feet for 239 600,1,5.109
+162,13,buyer,Yeah so that's like that's roughly like 100 sq ft more,0,5.109
+162,14,seller,Uh,1,5.109
+162,15,buyer,And then one that's around the same the same size which is like 1875 is 2:33 is that the same thing,0,5.109
+162,16,seller,Yeah I see 2 33 and 600 1875 So yes that's about roughly the same price Um what I can see here in comparison to the at 18 75 square footage one is that this one is nicer in in the centennial park area Um That's that's what I was told in my buyer sheet,1,5.109
+162,17,buyer,Well I guess for me and my my buyer sheet that looks like I am willing to fix something up So I would say that I'm looking more for a deal and locations important less amenities I guess that's that's what I was told Okay,0,5.109
+162,18,seller,Um are you able to meet at 2 30 2 34 I'm taking a hit from 242 to 34 and going into my bonus Is that something that you would also be able to um sacrifice a little,1,5.109
+162,19,buyer,sure to 30 about 2 30 three,0,5.109
+162,20,seller,2 33 Um Yeah yeah yeah I could do to 33,1,5.109
+166,0,buyer,Hello Hi Hi Um Okay I guess uh I will ask for mm but 200 20 3000,0,3.362
+166,1,seller,Um I'm gonna stick with Ah to 40 Ah I could come down to like 237 because the houses in the area that are like with similar amenities are like around like 2:39 - 33 So but I would prefer to stay in that range,1,3.362
+166,2,buyer,Mm Yeah mm My highest that I can do is 2 30,0,3.362
+166,3,seller,2 30 Yeah Is that like this the instruction,1,3.362
+166,4,buyer,Uh No,0,3.362
+166,5,seller,Uh How does 2 33 work then,1,3.362
+166,6,buyer,Um Be a little lower than that Like I like because I can go Like the highest that I would like is to 30 um I'd like to be closer to 30 but also be okay You staying in the to 30 range too,0,3.362
+166,7,seller,Okay well I guess we have time so yeah I was sick with 233 for now because like the house that's like the closest in like square footage is like 2:33 Uh So I think that's like a fair price in terms of like in front of these it's like a nice house fireplaces eat in kitchen mice appliances,1,3.362
+166,8,buyer,Yeah Um Yeah I can because I can do six 2 30 500,0,3.362
+166,9,seller,2 35,1,3.362
+166,10,buyer,"2:30 and then 500 - 230,000",0,3.362
+166,11,seller,500 Okay Um Okay Okay What about making that Just like an IV Well I guess it's not even technically but like just to 31 like,1,3.362
+166,12,buyer,Yeah I could do to 31,0,3.362
+172,0,seller,Hello If you're speaking I think you might be muted Hello How are you Hi I'm well how are you,1,7.909
+172,1,buyer,I'm fine Dance Are you the buyer or the seller,0,7.909
+172,2,seller,I am the seller,1,7.909
+172,3,buyer,also on the buyer,0,7.909
+172,4,seller,So you must be the buyer Right,1,7.909
+172,5,buyer,Alright Sure So I'll start recording now All right Want to want to negotiate for a price that my insurer for it 220,0,7.909
+172,6,seller,I don't know Sorry What did What was that,1,7.909
+172,7,buyer,"Mhm My initial offer is 220,000",0,7.909
+172,8,seller,"220,000 did you say Mhm",1,7.909
+172,9,buyer,225,0,7.909
+172,10,seller,"225,000 All right Uh so I am asking for an asking price of 240,000 because I think that this house is pretty favorably priced in comparison to other homes in this town And it has been a while since the last house was sold in this area Um And that's why am I asking price is at this amount Are you willing to negotiate for any higher than your initial amount",1,7.909
+172,11,buyer,Yeah I'm willing to negotiate uh a bit lower price Uh Since you I've done my research in the market and I saw uh side of the house and yes around uh This and other similar uh you know you know around 225 200 and deaths So I was making hoping that maybe no one traded Considering the citing also the location now done [PERSON] speech market located in a similar location The price is arranged in that range So I don't know if you can consider price Like around Go up my uh increase my offer Maybe you are around 230,0,7.909
+172,12,seller,"Right Also sorry your audio is cutting out a little bit So I don't know if I um comprehend everything that you're saying super clearly So apologies if I don't catch anything that you're trying to say but what I'm hearing is that you've done your market research and it sounds like um that what you're asking for is a fair price Um However I also have some um prices of neighboring homes with very similar characteristics as ours and I see here that I'm at home with very similar square footage is us but with less nice amenities Um has sold for 200 Almost 234,000 And so I don't necessarily want to go lower than that Um how About 235,000 It's much nicer than that Home has better amenities both inside and out and um yeah like I said it's been it's been a few months since the last home was sold in this area so I don't think you can find a better deal elsewhere",1,7.909
+172,13,buyer,Thank you very much I understand the way of coming uh now Oh I really like the place and uh I would like to move and stay in the area Like the outlook you have done a great job uh trying to do this And they there's so many factors that I need People think that both inside and outside the special the garage their exceptional But now I think I'll like to make a personal appeal to you Maybe we can take I'll take a crispy now You can you can go slightly to around 232 How about 200 million to choose,0,7.909
+172,14,seller,"Uh huh Um Yeah I think you know I understand where you're coming from but I think I'm really hesitant to go below the selling price of this other house just because I'm confident that our amenities are nicer and I know how much that this household for Um Yeah I I I know that you know you have been on this house search for a while and I know that like what we have to offer is is a very like quality house with quality amenities and I think if I were to go any lower I think I would want to rather like hold onto the house myself um instead of buying it because it's not like I'm trying to just like get rid of it as soon as possible I think the lowest certain value I would rather just keep it instead of selling it So um how about the house Like the house very similar to ours um sold for 234,000 Um but If I said 233 1000 how would that sound Mhm",1,7.909
+172,15,buyer,Yeah it's a bitch better after a little bit better than nothing But I think also I need to consider they also need to also take a legal fees to do the transfers and those affected in all those factors I was The appealing maybe because I want we want to close this do as as early as possible if you can take maybe that 1000 to make it different at the end of the day on my side I know that you be difficult for you but thankful for private segments Just agree on I was stupid for 232,0,7.909
+172,16,seller,Mhm Sorry what was the offer,1,7.909
+172,17,buyer,232,0,7.909
+172,18,seller,"232 did you say Yeah Mhm Um I think I hear where you're coming from and I know that um you know remodeling fees and stuff might be stuff you have to take into consideration Um But you know I am pretty firm on this price because I think anything less would be devaluing it then how much told by I know the owners of the previous house their new tenants or the new homeowners also um they have had to take that into consideration that they would have to pay additional money for remodeling fees but I think that's something that they kind of took into mind before you know they chose to buy the house at that price and so the price wasn't um Yeah like exclusive of those additional fees that might come with purchasing a house I think those are features that you would have incurred anywhere else Um and so I think I'm pretty firm on this 233,000 because I think first of all it's it's cheaper than how much um this other thing comparable house was sold for and anything less would I think would be devaluating the words of this house and I would rather keep it in that case Mhm",1,7.909
+172,19,buyer,Okay Not that Let's agree on 203,0,7.909
+178,0,buyer,All right I want to I want to negotiate for a price that my insurer for it 220 dollars,0,6.399
+178,1,seller,Sorry what did what was that,1,6.399
+178,2,buyer,"My initial over is 220,000",0,6.399
+178,3,seller,"220,000 did you say",1,6.399
+178,4,buyer,225,0,6.399
+178,5,seller,"225,000 All right Uh so I am asking for an asking price of 240,000 because I think that this house is pretty favorably priced in comparison to other homes in this town And it has been a while since the last house was sold in this area Um And that's why am I asking price is at this amount Are you willing to negotiate for any higher than your initial amount",1,6.399
+178,6,buyer,Yeah I'm willing to negotiate uh People lower price Uh Since I've done my research in the market and I sold uh side of the house Mhm It's around the This is a similar houses in a you know around the 225 - 230 So I was making hoping that maybe even know I'm trying to be considering the size and also the location I've done my research the market and the market research in a similar location the prices arranging that range So I don't know if you can consider right like around co uh because my offer maybe to around 230,0,6.399
+178,7,seller,"right Also sorry your audio is cutting out a little bit So I don't know if I um comprehend everything that you're saying super clearly So apologies if I don't catch anything that you're trying to say But what I'm hearing is that you've done your market research and it sounds like um that what you're asking for is a fair price However I also have some Um prices of neighboring homes with very similar characteristics as ours And I see here that I'm at home with very similar square footage as us but with less nice amenities um has sold for 200 almost 234,000 and so I don't necessarily want to go lower than that Um how about 235,000 It's much nicer than that Home has better amenities both inside and out And um yeah like I said it's been it's been a few months since the last home was sold in this area So I don't think you can find a better deal elsewhere",1,6.399
+178,8,buyer,Thank you very much I understand the way of coming from Uh I really like the place and uh I would like to move and stay in the area Like the outlook You've done a great job Uh trying to discern the uh there's so many factors that I think people think that both inside and outside the first of the writing their exceptional But now I think I would like to make a personal appeal to you Maybe we can take I'll take a maybe you can you can go slightly to around 232 I know about 252,0,6.399
+178,9,seller,"Mhm Mhm Um Yeah I think you know I understand where you're coming from but I think I'm really hesitant to go below the selling price of this other house just because I'm confident that our amenities are nicer and I know how much that this house sold for Um Yeah I I know that you know you have been on this house search for a while and I know that um like what we have to offer is is a very like quality house with quality amenities And I think if I were to go any lower I think I would want to rather like hold onto the house myself um instead of buying it because it's not like I'm trying to just like get rid of it as soon as possible I think the lowest certain value I would rather just keep it instead of selling it So um How about the house like the house very similar to ours um sold for 234,000 Um but if I said 233,000 how is that sound",1,6.399
+178,10,buyer,It's a bitch better Uh a little bit better than nothing But I think also I need to consider they also need to also take a legal fees to do the transfers and pacific having all those factors I was the appealing maybe because we want to close this do as as early as possible If you can check maybe that one doesn't need to make a difference at the end of the day on my side I know that you to be difficult for you but thankful for privacy Just agree on was still push for 232 Mhm,0,6.399
+178,11,seller,Yeah Sorry what was the offer,1,6.399
+178,12,buyer,232 mm,0,6.399
+178,13,seller,"232 did you say Yeah Mhm Um I think I hear where you're coming from and I know that um you know remodeling thieves and stuff might be stuff you have to take into consideration Um but you know I am pretty firm on this price because I think anything less would be devaluing it then how much will buy I know the owners of the previous house there are new and it's or the new homeowners also um may have had to take that into consideration that they would have to pay additional money for remodeling fees but I think that's something that they kind of took into mind before you know they chose to buy the house at that price and so and the price wasn't um Yeah like exclusive of those additional fees that might come with purchasing a house I think those are feeds that you would Have incurred anywhere else Um and so I think I'm pretty firm on this 233,000 because I think first of all it's it's cheaper than how much this other comparable house was sold for and um anything less would I think would be devaluating the words of this house and I would rather keep it in that case",1,6.399
+178,14,buyer,Okay Not that let's agree on 203,0,6.399
+183,0,seller,Okay,1,7.982
+183,1,buyer,Double check that I am I am okay Yes I think or no I'm not all set Okay Uh Well very nice to meet you,0,7.982
+183,2,seller,Yeah Yeah Yeah Mhm Yeah,1,7.982
+183,3,buyer,Well I'm here because I saw that your you have a home for sale,0,7.982
+183,4,seller,Yeah I do Yeah Yeah And it's ah quite an unusual one in the area probably hasn't come up that often um recently uh in the area So It's four bedrooms 1 room Mom recreation room and two bathrooms,1,7.982
+183,5,buyer,Yeah That's great I saw the listening about it and it the description describes it as it was built in 1947 Uh Just a few more bits of information that I have before I have come here and on the chat about it the amenities two fireplaces hardwood floors newly decorated nice large kitchen all the great appliances Um Is there is there anything that uh that isn't on this description that I already have in front of me that uh that would be great to just know about the property,0,7.982
+183,6,seller,Uh No no I don't think so,1,7.982
+183,7,buyer,Okay great And uh I learned a bit more why uh why have you put this property up on the market,0,7.982
+183,8,seller,Um Just because I feel it is um the right time to uh to sell now And um I think um I could just um time to move on really I've been here for several years Yeah,1,7.982
+183,9,buyer,I see So have you been living in this house long I'm just I'm really curious about just learning a bit more from you around because you mentioned you've been here you're looking to to move somewhere else How exciting Um It's always exciting That's a big step Um definitely And I I just was curious to learn a bit more from you in terms of what what are you looking for in terms of the buyer,0,7.982
+183,10,seller,Um someone that will be happy uh in the in the family home um as I have been and yeah just um someone who it generates of looking to um enjoy the new property,1,7.982
+183,11,buyer,Wonderful Well I I saw you listed an asking price of 240,0,7.982
+183,12,seller,Yeah,1,7.982
+183,13,buyer,1000 Is that uh that's right yeah Yeah And how how are you feeling about how you priced it and how did you come to that like to just know about ah about the research that you've done to put into the pricing here,0,7.982
+183,14,seller,Um It's quite it's quite sort of favorably priced in comparison to sort of homes that are sold in the area recently and um um uh you know not many of these houses come up for sale in this area very often So I think it's a real opportunity if you if you're looking for a really nice neighborhood Mhm Um And and so that's that's how I've come to the price that I that I have,1,7.982
+183,15,buyer,Okay Right Yeah I did I did do a little just to educate myself as well Uh The area as beautiful as you mentioned Um But there have been a few sales in the area as well that sales prices have been a bit lower than your asking price So in terms of just getting in line with the current state of this neighborhood in this market um That's something where uh you had mentioned it favorably priced I'm seeing it at currently at somewhat of a premium especially just given recent sales activity in the neighborhood that I've I've been to be seen in the papers,0,7.982
+183,16,seller,Okay well that's something that I'm writing to sort of negotiate with that's if the price is is a problem,1,7.982
+183,17,buyer,Yeah the uh appreciate hearing you say that because I I I do know following your shoes making sure that I'm getting a good market values is really important Um And then a nine position same thing I want to make sure I'm in line with what is currently in the market Of course appreciate every property slightly unique Um uh In terms of um is there is there some would you like me to to just highlight to you um what I'm seeing is,0,7.982
+183,18,seller,Yeah Ok Yeah,1,7.982
+183,19,buyer,"Yeah I'm seeing um we don't have too much time today together uh But I do see that um for the size of the property um similar units in roughly the same size have been closer to around let's say I have to hear one was One was as as low as 213,300 um relatively recently listed but that is a bit of a smaller unit So I think in terms of the more size it makes sense that this is priced a bit higher and I've seen them more closer to Uh just around 230,000 around that area plus or minus And that seems to be more aligned with Misa property in the 1800 sq ft zone Um That's just where I'm starting at Would something like that be comfortable if we kind of look to get into that that area",0,7.982
+183,20,seller,Yeah Yeah I think I think so Um I think possibly an extra 1000 or two for the fact that it's been finished really nice inside with hardwood floors and fireplaces whole closet Um And all the appliance appliances Mhm Yeah Certainly Yeah,1,7.982
+183,21,buyer,Yeah that is that is good to know that it wouldn't require immediate maintenance it could be move in ready Uh That's that's certainly a value And so what what do you propose,0,7.982
+183,22,seller,Uh I think 232 232 I think it is a good price,1,7.982
+183,23,buyer,"Uh Let me let me think about that for a second I do think that's favorable Uh Just my initial reaction And yeah if you're comfortable with that I'm I'm good to go 232,000",0,7.982
+185,0,seller,Hello Hello All right So I believe the buyer begins first,1,2.985
+185,1,buyer,"rest Okay Yeah So let's see Yeah I'm not sure what the format is but I will I would like to buy the house for 215,000",0,2.985
+185,2,seller,"It's a little low Um Because this this house is like one of the nicest in the area I believe like the value is actually like 250,000 But um I'll set my Price as like 240,000 for you if that's okay",1,2.985
+185,3,buyer,So that was the initial asking price Um though in terms of history yes There in terms of the age Let me see what other information I have though her video There's yes I also noticed that um a good deal of having neighboring homes that are sort of similar Um yeah there isn't yeah there's a neighboring home with around the same number of square footage that also has similar amenities And that one went for 233 So I had actually be yeah I don't have a map or anything Yeah Well for 233 for And it actually has a little bit more It's 1875 square feet as opposed to the 1846 Um so I would think that 250 is a little high and even maybe 2 40 B a little bit high Think something closer to 200 200 Well since that house is a little bit bigger um Anything within the Unit 2 30 Um We're going to to 30 range so I would be happy to move up from the tooth 215 which I agree was a little bit low It's something around 2:30,0,2.985
+185,4,seller,Uh 2 30 I think 2:30 is okay as well,1,2.985
+188,0,buyer,mm We'll go if you are Well Hi All right Um so we have the same rules before but now we're just talking instead of doing the numbers Yes Okay Um okay Um so should I start um I guess you have sometimes the buyer I guess I'll go first Yeah I'll say What about 220,0,1.885
+188,1,seller,Um I will counter with 2 30,1,1.885
+188,2,buyer,eight Okay Um I'm still a little high for me Um What about 2 25,0,1.885
+188,3,seller,How about 2:34,1,1.885
+188,4,buyer,Um mm What about What about 2:30 mm,0,1.885
+188,5,seller,2 31 Yeah,1,1.885
+188,6,buyer,Yes Okay Yeah that's fine Perfect,0,1.885
+189,0,buyer,I'm recording Are you recording,0,10.24
+189,1,seller,Yeah I think we should be good to go,1,10.24
+189,2,buyer,Okay cool My name's Do you think we can say names I don't,0,10.24
+189,3,seller,think that you can just say that I'm buyer and I'll be seller,1,10.24
+189,4,buyer,Okay Okay I'm the buyer You are the seller pleased to meet you seller,0,10.24
+189,5,seller,Nice to meet you as well,1,10.24
+189,6,buyer,"Uh Thank you for the tour you gave me of this house Uh that's great I love living in Centerville I hate you know that all those people from Edge Bill back so they can get right out of town Uh Mhm Um Okay so I guess my initial offer is going to be for uh $212,000 Okay",0,10.24
+189,7,seller,Um can I ask what you are looking for most in a house Um if there's something that really is kind of a deal breaker for you because I'm sure that this house does happen to have it,1,10.24
+189,8,buyer,Mm Uh Well in the best case scenario I'm looking to rent this house out and then we sell it a few years down the road Um So I'm looking for things that are marketable Uh but aren't gonna put me back in the initial cost you see,0,10.24
+189,9,seller,"totally Well this is actually great news because this is a split level style house Um So it should be really easy to convert it not only into like one rentable home but maybe two Um And so I think that could be really positive for you if that's the avenue that you're willing to take There's also lots of marketable features um given the fenced in backyard you know dogs are a possibility or other animals the detached garage Um The fact that you know Its newly decorated with two fireplaces So again if you were deciding to split it up um I think that could be a big selling point Okay so you gave me a nice initial offer as you probably know I my asking price Um it's $240,000 so that's a bit low Um what if I said 238,000 How would you feel about that",1,10.24
+189,10,buyer,"That's moving in the right direction from 240,000 uh for sure um But I don't know if I can agree to that quite yet Ah Wait give me one second I'm trying to make the things side by side so I can look at the",0,10.24
+189,11,seller,No you're good I did the same thing Don't worry,1,10.24
+189,12,buyer,You know the facts so Well what a good realtor,0,10.24
+189,13,seller,Thank,1,10.24
+189,14,buyer,you Uh do you happen to know how recently many of these renovations were done Because it was built in 1947 and it seems like it's you know quite modernized for now you know by now Do you happen to know when when this work was done If there are any repairs or work that is expected in the coming years,0,10.24
+189,15,seller,Sure So my husband and I actually um renovated two years ago um and we were you know very interested in staying in the house and unfortunately due to his work we're moving but we did the renovations um thinking that we would be staying and so their long term fixes we kind of did like a total redo as I'm sure you've read um given the newly decorations uh the new decorations um and kind of the expanded kitchen um with all the different appliances that we just added Um And so because of that we were planning on staying and then you know life gets in the way Um but it shouldn't need work for several years You know the roof is good There is no water damage Um The only thing that may need changes the furnace but that according to uh you know the renovations and and the people that we spoke to would need eight years or would would go for at least eight more years before it becomes an issue,1,10.24
+189,16,buyer,"Okay That is good to hear Thank you Um With that in mind I'd like to increase my offer to uh 224,000",0,10.24
+189,17,seller,"awesome Well thank you I appreciate the continued changes Um I will say one of the reasons that the asking price for this house is so high um is that it's been several months since any house was sold in this centennial park area Um So we know there's a lot of demand given that we're one of few of our neighbors that are thinking about selling In fact you don't really know of any other of our neighbors are planning to sell Um And so because of that you know I spoke to a lot of my really good friends and they really recommended that we increase the price Um But it sounds like you're really wonderful and I would love to sell you this house Obviously it's really important to me Um So what if we did 235,000 Yeah Mhm",1,10.24
+189,18,buyer,Mhm So I'm trying to get into character uh you're fine the way uh you know I appreciate uh your counter offer and I know you know selling directly uh especially at a time when you're you're probably you're moving things are probably a little bit up in the air You know you might not have a Uh huh total plan sorted out ah can be stressful and you know the market can be a little volatile especially right now I understand why you're you're asking for a higher price Um But you know this is according to some research that that uh that we've done me and my uh vast partnership Uh,0,10.24
+189,19,seller,huh,1,10.24
+189,20,buyer,"Uh You know some some comparable homes on the market are are retailing for for less you know with similar characteristics You know they might not have this advantage of being Uh huh Right in the area Um But you know these sorts of Houses similar characteristics you know built in a similar time renovated uh in a similar time frame are are going for close to $230,000 right now Um So if possible we would like to get below that um Just because this one's a slightly less square footage than some of those that we're seeing Uh So sorry did I say to 24 last time All right Uh",0,10.24
+189,21,seller,yep That's what I,1,10.24
+189,22,buyer,Have Okay Okay Okay Uh so maybe I'll go to 22 27,0,10.24
+189,23,seller,yeah Okay Um No I I really do appreciate that And I love that you've done your research Um It shows you know that you're an informed buyer and that you really care about the property and as someone who's selling their house and who feels really close to this house um Just given all the memories we have here I definitely love to see that Um And really appreciate the fact that you have done your homework Um I will say that our house is a bit smaller in terms of square footage as you pointed out but we do have a lot of these amenities that I am not sure if the other homes have Of course I haven't looked specifically in these houses Um but like I said the renovations that we did you know just two years ago the fact that it is a split level style house which sounds like it's you know we're going to work really well for what you're doing I'm not sure you'd be able to find that in other properties Um You know we have things like and this is gonna sound really silly but it kind of matters to renters like mature trees uh in the backyard So it really has that kind of private feel um because there's so much shading there's restaurants and transportation within walking distance so maybe a renter Uh it's a college student or someone who doesn't have a car Um And so this location is like really um I think a big selling point which offsets the smaller square footage So to your offer of 2 27 I would maybe counter um with 233,1,10.24
+189,24,buyer,um Question about the trees,0,10.24
+189,25,seller,Sure Yes please,1,10.24
+189,26,buyer,Is there arborist information in like is this you know because mature trees you know my my housing buying brain that I have developed over many years That screams to me old trees right That screams to me damage when the when the trees fall under the weight of the heavy snow Uh uh You know have been looked up an arborist Are they you know overlooking parts of the home Are there overlooking electrical lines or parts of other people's homes that are on the property,0,10.24
+189,27,seller,Yeah So Great question Um I don't know if I mentioned this but I probably should if we have a fenced in backyard Um And so the fenced in part has two or three mature trees more towards the back and then after the back or like after the back of the fence is where the majority of like the kind of forest the area lies Um So like I said you do get that privacy factor um But really the only potential damage that could come uh say there is a big snowstorm um would be to your fence not at all to your home or the generator Anything of that nature,1,10.24
+189,28,buyer,Okay That's great to hear So to To 33 I'd like to go ah 2 31 if you're willing to hear that,0,10.24
+189,29,seller,Ooh that is sounding right up my alley Um Thank you for being so amenable What's the chances you would do to 315,1,10.24
+189,30,buyer,Mhm I do too 31 5,0,10.24
+191,0,buyer,me to record it,0,12.389
+191,1,seller,thinks Okay So okay sounds,1,12.389
+191,2,buyer,good And I am the buyer,0,12.389
+191,3,seller,I think uh yeah I'm the seller Give me one moment to make sure I just need to seven threats one Okay I think I think I'm like,1,12.389
+191,4,buyer,"okay sounds good Um 198,000",0,12.389
+191,5,seller,So I really can't do that Um just so given the you know the neighborhood pricing that's a little bit too low Even for this neighborhood you perhaps give another offer,1,12.389
+191,6,buyer,Yeah What's your asking price,0,12.389
+191,7,seller,"2,40,000",1,12.389
+191,8,buyer,"To 40,000 Okay So I've been looking at houses similar and the lowest it goes is around 200 and 10 or so 1000 So 205,000",0,12.389
+191,9,seller,"So uh those are similar sort of but we have to look at the you know square footage price as well unless some of the updates I've made to the house Um so the closest to my house would be the one I don't know if you have this data but it's the 18 75 square foot 1 433,600 Uh And the thing with my house though is that I've updated uh the outside so the brick as well as inside Um I refinished the hardwood floors and uh then the landscaping and everything and so you know compared to the houses in my neighborhood I think it's in much better condition",1,12.389
+191,10,buyer,"Okay Yeah that's reasonable But I assume that those other houses have also updated um similar features of their house Um So are you willing to go lower than 240,000",0,12.389
+191,11,seller,Uh Yes we can negotiate on that But you know I think you're 210 is it's for for you know what I've done with the house and its size in the neighborhood I just I don't think I could go with that,1,12.389
+191,12,buyer,"Okay so your house is a little smaller than the 233,000 1 Um so I will offer 215,000",0,12.389
+191,13,seller,"That's a lot lower It's not that much smaller Um To be honest the 215,001 is more than 100 square feet smaller than my current house And so you know the square footage you're asking for The price is just a lot over I don't think I can go with that",1,12.389
+191,14,buyer,"Okay 216,000",0,12.389
+191,15,seller,"Uh Here let me let me actually give you crunch the numbers So um if you're giving me 200 so my house is 1846 Murphy If you're giving me 216,000 that is uh let's see That is 117 a square foot But the average In this neighborhood is about 125 So uh you know I I don't think I can you know take that offer I can go down to 235 For sure we can negotiate on the price",1,12.389
+191,16,buyer,Okay Um I let me quickly do the math as,0,12.389
+191,17,seller,well Mhm,1,12.389
+191,18,buyer,"So he said 235,000",0,12.389
+191,19,seller,yep We can I can I'm willing to go down at least that far Yeah,1,12.389
+191,20,buyer,"Okay I will offer than 220,000",0,12.389
+191,21,seller,"I don't think you know I don't I don't think that's gonna work for me Um you know even at 220,000 that's That's almost that's more than five square feet $5 a square foot lower then you know even the other homes in my neighborhood And as I said leave just newly decorated everything inside It's 100 movement ready And yes you can make the assumption that others may have also updated their houses But that also means that even more reason I can't go below you know the others in the neighborhood And that's a big assumption to make a lot of the homes probably haven't really updated They might have just cleaned it so",1,12.389
+191,22,buyer,Okay that makes sense Yeah I think your price range is just a little bit out of my budget Um The highest I'm willing to go is 223 1000 With some leeway Very little,0,12.389
+191,23,seller,"I don't think I can go that low I can go up to Um down to 230 I can do 230,000",1,12.389
+191,24,buyer,"Section 30,000 Okay What about 200 Let's see And",0,12.389
+191,25,seller,yeah and that puts me basically directly on par with all the others in the neighborhood,1,12.389
+191,26,buyer,Mm Okay Have you been getting a lot of other visits for your house,0,12.389
+191,27,seller,I've been getting some but again it's you know the price too the existing condition of the home I think it needs to be reasonable for me to consider it,1,12.389
+191,28,buyer,"Mm Okay What What about 200 24,000",0,12.389
+191,29,seller,Can't do it Can't do it I'm sorry I can't do it,1,12.389
+191,30,buyer,"2,24,500",0,12.389
+191,31,seller,Yeah I can't do it I mean I guess It seems like you really like the home I couldn't maybe nudge it to 229 To 2029 Yeah that's the most I could go honestly I think,1,12.389
+191,32,buyer,Uh Okay,0,12.389
+191,33,seller,Mm hmm,1,12.389
+191,34,buyer,Yeah I'm not sure I would be able to afford that Um,0,12.389
+191,35,seller,Is there any other leeway you could you know just any more that you can do,1,12.389
+191,36,buyer,"Mm 224,800",0,12.389
+191,37,seller,I can't do that I'm sorry Yeah,1,12.389
+191,38,buyer,yeah I also think I won't be able to afford the price that that you're giving now,0,12.389
+191,39,seller,Even with 229,1,12.389
+191,40,buyer,Even with 229 is there any way you can go lower I really do like this house,0,12.389
+191,41,seller,"Yeah Okay let me think about it mm Okay What about 226,500 But I mean I think I've come down a lot already and it's yeah yeah",1,12.389
+191,42,buyer,"I really appreciate it Okay I think What do you think about 225,000",0,12.389
+191,43,seller,Can you come up and match me a little bit I mean uh huh I just there's you know there's the neighborhood price there's the condition of the home Is there any way you could come up just that little bit more Um I think you know with 100 26 500 I'm definitely already under the neighborhood average Uh And this is just because I've seen that you really you know you really really want the home,1,12.389
+191,44,buyer,"I definitely do Thank you for seeing that Okay um 225,500 I think that is that is the most I'm willing to go",0,12.389
+191,45,seller,I mean gosh can we meet in the middle 226 26,1,12.389
+191,46,buyer,Okay Your original asking for 240 Um let me punch it again,0,12.389
+191,47,seller,So you tell me Okay I've come down quite a bit on the per square foot price For sure,1,12.389
+191,48,buyer,"Okay Yes you definitely have Um Is it possible 225,500",0,12.389
+191,49,seller,Can you just meet me up at the 226 I mean I don't think I'm being unreasonable for that last $500 Uh huh It takes as much as $500 to do the landscaping honestly,1,12.389
+191,50,buyer,Yeah But based on my budget I feel like I really am stretching myself for this home,0,12.389
+191,51,seller,Uh Is there any way you could just give me that last 500 I'll put that in towards the posting house of the house So it'll be yeah Uh huh Yeah mm hmm,1,12.389
+191,52,buyer,I think I would be willing to Take that 500 for any renovations I might want to do later on,0,12.389
+191,53,seller,I mean But this house is already completely renovated I don't really foresee you needing to do anything in the next 3-5 years,1,12.389
+191,54,buyer,I've,0,12.389
+191,55,seller,already put down the money to do those reservations So,1,12.389
+191,56,buyer,Gosh so the 500 would go towards those renovations,0,12.389
+191,57,seller,As in like,1,12.389
+191,58,buyer,As in you said earlier that the $500 will be put towards like renovations and updating Is that what you said,0,12.389
+191,59,seller,So I've already done the updating Uh you know that extra 500 I've already I've already sunk the money and to do all the renovations But you know the 500 wouldn't cover nearly as much of the renovations I've already done But because you know when you were buying and selling house we both have to pay some closing costs and things like that Those extra 500 could go towards that for me on my end About as much as I found the landscaping already honestly Um Uh,1,12.389
+191,60,buyer,huh Yeah Thank you for explaining all that But um yeah I think because of the other expenses Uh huh outside of buying homes I think that's the most I'm willing to do,0,12.389
+191,61,seller,All right I mean that's okay Are you sure Just an extra 500,1,12.389
+191,62,buyer,Mm Yeah it's really really difficult to put enough 500,0,12.389
+191,63,seller,Okay let me think about it then because I think it would be really helpful for me on my end for sure,1,12.389
+191,64,buyer,Yeah I really appreciate already how far you have come down Um Yeah,0,12.389
+191,65,seller,cool okay let me think about I've thought about it Can you come up a little bit uh 225 At some some 50 Yep So I'll come down 250 and then if you could come up The last 250 you know Mhm Thanks,1,12.389
+191,66,buyer,Sorry can you put that price one,0,12.389
+191,67,seller,More time to 25 750 to,1,12.389
+191,68,buyer,25 70 C Okay Mhm Okay Okay I think that works with me,0,12.389
+194,0,seller,Yes All set Okay,1,2.851
+194,1,buyer,Right so I think we could start Yeah so I was looking to buy a house,0,2.851
+194,2,seller,for,1,2.851
+194,3,buyer,"around $225,000 just looking at the other houses in the neighborhood of a similar size And so that was my budget But of course I'm willing to negotiate",0,2.851
+194,4,seller,"Okay um so like you see I'm trying to I have it listed for 240,000 Um also willing to negotiate a little bit and is 225 where you're starting at or like",1,2.851
+194,5,buyer,"Yes so ideally just um the other house we're looking at is at around 200 and $28,000 Um so I'm just trying to stick in this range But yes um",0,2.851
+194,6,seller,I mean I could go maybe as low as like 235 but I did put a lot of Work into the house since I bought it I mean there's four rooms for bedrooms alone A rec room 2.5 bathrooms I mean you've seeing it so you know what is in there but I mean two fireplaces like fenced backyard 2.5 car garage So I'm trying to Yeah you know um Sick to as high as I can would to 35 be something you'd consider Uh huh,1,2.851
+194,7,buyer,"So I agree just comparing it with my 228 option Um I do agree that this comes with a lot of many more amenities than I am attracted to So what Yeah I could come up to 230,000",0,2.851
+194,8,seller,That's,1,2.851
+194,9,buyer,"Better Yes because I was just looking at the other house for 228,000 and I thought okay um you started to list the amenities and I do think that's fair I will have to go higher than 228,000",0,2.851
+194,10,seller,Yeah I mean I think it would be worth it especially like there's walking distance restaurants um all new appliances in the kitchen that kind of stuff So Um I would go down to 232 like a final if that's something you could do,1,2.851
+194,11,buyer,Sure Yeah I agree To 2.3,0,2.851
+203,0,buyer,Hi how are you,0,7.729
+203,1,seller,Hi Sorry I was just checking I couldn't select record to my computer I don't know if it's recording to the computer or to the cloud but we'll see I guess I,1,7.729
+203,2,buyer,don't know either I just clicked on it It's on the bottom I don't know like it's on the bottom right next to the green share screen,0,7.729
+203,3,seller,Yeah but it just started recording I don't know where it's recording,1,7.729
+203,4,buyer,Oh me too I assume it will when you click stop it'll say like save video and then you can save it to your computer,0,7.729
+203,5,seller,Yeah Yeah we'll see Maybe they the instructions with the previous version of soon I guess,1,7.729
+203,6,buyer,maybe,0,7.729
+203,7,seller,Um Okay so we need to agree on the price of my lovely house in centennial Park,1,7.729
+203,8,buyer,Yep And we have to do it within I set the timer so we have 13:14 minutes,0,7.729
+203,9,seller,Yeah Yeah I mean my like the video things as there remained on the on the on the upper right so that's the time we,1,7.729
+203,10,buyer,have Yeah I didn't mean,0,7.729
+203,11,seller,yeah So I think uh the instruction says,1,7.729
+203,12,buyer,yeah,0,7.729
+203,13,seller,you need to start,1,7.729
+203,14,buyer,gotcha Um I think we can say everything except there's a certain part that we can't say so,0,7.729
+203,15,seller,Yeah But I imagine I mean you have a description of the house right I think that we can argue with respect to that and,1,7.729
+203,16,buyer,or yeah and the the other information there's only one part of it that I am not supposed to say,0,7.729
+203,17,seller,Yeah I understood I understood the same thing Yeah,1,7.729
+203,18,buyer,"Gotcha Okay so um how about 200,000 with that work",0,7.729
+203,19,seller,Actually no I think You know the listing price is 240 and you know I'm willing to to you know make it a little more um Convenient for you But to 2000 is out of the question I mean I uh yeah I'd rather I'd rather keep the house if that's the prize Um I was thinking you know something way away less of a discount as married and you know um Similar houses have been sold for prices around this this money but they were sold you know sometime ago they have the same sort of like square footage um and there was all at around 2 40 but it was some time ago So I was thinking you know to sell at around 2 40 maybe 2 35 But that's sort of like the neighborhood prize that that I would be asking,1,7.729
+203,20,buyer,"Gotcha Uh Here it says that the neighborhood prices to 13 213,000 or 200 um 33,000 Or to 39,000 on on my sheet I think I'm allowed to say that Yeah Yeah So can we just take the average of the neighborhood um prices you see Well I",0,7.729
+203,21,seller,mean what we can calculate is how much square feet is uh in those cases right Because the one that is 2 13 it's actually a house that has 17 15 square feet Whereas uh we're talking here about a house that is Closer to the 2nd 1 right which is 1846 sq ft of space And as I was telling you those prices are a little bit old So there needs to be some sort of uh at least you know inflation accommodation without taking into account that market prices uh you know keep on going up in this area,1,7.729
+203,22,buyer,Uh I think there are current Oh I see Okay Um I mean I think I think we have to like take into account all the different house characteristics to though because there's like so much random stuff in this house like our places and all that stuff So I think I think the neighboring homes are probably just like honestly like equal homes like maybe it's smaller square feet But like who knows if they have what like what amenities they have So maybe we just assume that's like the price comp and then we just do the average Of all of them like add them all up and divide by three,0,7.729
+203,23,seller,Um Yes but we were as I was telling you were dealing really with like different I mean let's just do that to begin with but I would feel more comfortable trying to arise at some price per square feet and then you know going for that because if I'm not mistaking what you're suggesting would be,1,7.729
+203,24,buyer,why don't we just add the yeah adding that all the three prices of the it says there are other options of homes So I don't I don't see anything that says they're like several years old or anything like that So I got up and divide by three,0,7.729
+203,25,seller,Oh I mean I do see in my house description that you know that sorry let me just say the house Hmm You have always believed that I live in one of the nicest house in centennial Park area My house is favorably prize in comparison to comparable homes And it has been several months since the last house was sold in this area So all those prices which are selling prices are a little bit old That's what I was saying So under your um sort of proposal the price That we reach is 228 That's the average 28 800-29 would be rounding it up Uh and then if we take what I was suggesting which is um sorry doing The some of those three basically 2:33 600 and uh to 13 300 So that's 686 500 I'm just gonna make a little note So that's 686 500 And the square footage is 1715 plus 1875 plus 1920 Yeah So the average mm 551 arrow The average price per square feet is 1 24 60 So if we take that number times the square footage that gives something closer to 2 30 So it's 2 29 996 So can you Can you stretch to 2:30,1,7.729
+203,26,buyer,Uh,0,7.729
+203,27,seller,Can we do to 20,1,7.729
+203,28,buyer,nine Just call it a day Okay,0,7.729
+203,29,seller,Let's go to 29 and let's call it a date That sounds good,1,7.729
+205,0,buyer,Mhm So are we are we negotiating based off the same Um,0,2.31
+205,1,seller,uh I believe so I just want to make sure I'm recording Believe I'm um,1,2.31
+205,2,buyer,should be the record button right next to the sheriff screen on the bottom right,0,2.31
+205,3,seller,Yeah it should be But for some reason minds is not,1,2.31
+205,4,buyer,mm There are three dots that have more options,0,2.31
+205,5,seller,This is just like oh I guess I'm already recording,1,2.31
+205,6,buyer,to have a pause stop recording option No because I started recording,0,2.31
+205,7,seller,Okay So maybe says audio options,1,2.31
+205,8,buyer,You should record the breakout session to record click the recording meeting Control that monitor screen according your computer,0,2.31
+205,9,seller,Yes that's disabled Video No I don't want to do that I guess we should just start negotiating One of us is recording,1,2.31
+205,10,buyer,Right Right Good enough,0,2.31
+205,11,seller,Okay So now am I so we're probably doing the same as last time,1,2.31
+205,12,buyer,So I'm the buyer,0,2.31
+205,13,seller,Okay So I'm the Okay So I guess I just give you a number and you say yes or no,1,2.31
+205,14,buyer,what we can we can negotiate however we want to um You know last time it was like the buyer needed to start with with an initial offer Um,0,2.31
+205,15,seller,"Alright so 200,000",1,2.31
+205,16,buyer,Yeah I know that that sounds that sounds like a good starting point Um What is your initial Because is that what your initial is,0,2.31
+205,17,seller,My initial is to 20,1,2.31
+205,18,buyer,2 20 Okay Um I'm good with 220 so we can lock that,0,2.31
+207,0,buyer,"Hello Oh I would like to offer 200,000 for the house",0,6.097
+207,1,seller,Oh that's a little tough for me It's a really nice house Um I actually had a much higher starting bid Um I was thinking somewhere around 2500 k,1,6.097
+207,2,buyer,"mm Um 2500 Isn't the listing price only 240,000",0,6.097
+207,3,seller,Sorry numbers are hard for me um 250 uh,1,6.097
+207,4,buyer,"um Yeah that's a little bit out of my price range I guess Um I definitely can't go higher than the listed christ and looking at comparable housing in the neighborhood Um I think 210,000",0,6.097
+207,5,seller,Mhm Um Mhm The house is listed for 240 Yeah Yes mm Well I mean it's really nice house I've lived here for quite a while Um Did you know that has split level style It's really nice for privacy and like the first one second floor you can kind of like like you can have people over but then they won't have access to more private rooms Um It's really nicely landscaped I worked with a contractor myself there's like a nice bonsai garden the back so I don't know it's it's hard for me to give it up Um Uh maybe like 20 238,1,6.097
+207,6,buyer,"Oh um so my price range really is pretty limited between yeah Uh like 210 225 so I really can't afford 240 even though I know it's a beautiful home Um How do you feel about 215,000",0,6.097
+207,7,seller,Yeah mm Okay that's a little tough I still got some payments to make on it um Maybe 235,1,6.097
+207,8,buyer,"Um It's definitely getting closer to what I can afford but I do understand having to make payments because I do too um Let's see um I could do 220,000",0,6.097
+207,9,seller,so alot for me Um I really think like 2 35 is around a good price Um You look at the houses around there's like one close to this number and it's a little bit bigger but only by like 30 square feet and that's basically a closet Um And you know I've I've walked by there and I think our amenities are much nicer So like I'm still hoping for somewhere around 2 35,1,6.097
+207,10,buyer,But that house is 30 square feet bigger but 1500 cheaper So I don't know I don't think I can Can do to 35 Um I could do 2 25,0,6.097
+207,11,seller,Mm hmm I can I can level at maybe 1000 less like 2 34 It will it still be a little bit more expensive than the other house even though it's like slightly slightly smaller But again I think our amenities are much nicer Um we have hardwood floors um and also all the kitchens like entirely um stocked with appliances Also we recently renovated so it's like messing new Um so I I honestly think to 34 is a very reasonable price especially compared to the listings nearby Right I,1,6.097
+207,12,buyer,understand Um Well if you lowered By one grand I guess I can increase by a grant to I could pay to 26,0,6.097
+207,13,seller,Reconsider Maybe I really think to 34 is like a very reasonable price for all the stuff that the house already comes with and also all the work that had been put in before to make it a really nice house,1,6.097
+207,14,buyer,"Right I just I'm sorry I can't I just don't have that much money to spend so I can't go much higher than what I've said I definitely can't go above 230,000 Um I could do um I can do to 27 2 32",0,6.097
+207,15,seller,That's that's a whole renovation right there,1,6.097
+207,16,buyer,Um Yeah yeah I'm sorry I can't it's just not in my budget Um What about I can do to 28 but I really can't do much higher than that,0,6.097
+207,17,seller,mm Earlier you mentioned you can't really go higher than 2 30 And that that's a pretty low pretty low price for all the stuff that comes with the house But you know what you sound like someone who would really enjoy the place so I want to sell to you Can we settle at 2 30,1,6.097
+207,18,buyer,I think so,0,6.097
+214,0,buyer,mm I Hello,0,10.971
+214,1,seller,Hi,1,10.971
+214,2,buyer,I heard that you're,0,10.971
+214,3,seller,marking for your house,1,10.971
+214,4,buyer,Excuse me come again,0,10.971
+214,5,seller,I heard you in the market for a house,1,10.971
+214,6,buyer,Yeah I am I am looking to purchase a house and I heard you were the seller,0,10.971
+214,7,seller,"Yes Well we have a great house available to buy It has about 1846 sq ft There are plenty of inside and outside amenities is no kidding You're a great neighborhood And transportation is within walking distance So I thought we could start with the price of around 240,000",1,10.971
+214,8,buyer,"Mhm Oh wow I mean I think those uh that was uh Amenities that you mentioned in the specs of the House Sound very good But I think 240,000 will be quite a high price Um",0,10.971
+214,9,seller,um What price are you looking for Or like you can give me a range maybe,1,10.971
+214,10,buyer,"I'm sure I I think the value in which I was searching for was actually uh more close to the ballpark of 175 270 Uh Sorry 100 8500 Uh 87,000",0,10.971
+214,11,seller,"Well if you're asking for that price I don't think we'll be able to buy a house with that much square footage because on average even a house with 1715 square footage that sells around 213,000 So you have to give at least 200,000 range for house that with that much space",1,10.971
+214,12,buyer,I see Is that a equivalent square feet um per dollar by referring to in this area,0,10.971
+214,13,seller,Yeah it's like square feet of space And then they calculated per square footage,1,10.971
+214,14,buyer,Do you have a dollar value per square foot for those houses,0,10.971
+214,15,seller,Uh No those are just average prices for those square footage,1,10.971
+214,16,buyer,I see Um Is it okay if I just do a quick calculation myself for that,0,10.971
+214,17,seller,Sure No problem thank you Mhm,1,10.971
+214,18,buyer,"Well I guess in some ways you're right Um That's the 17,000 sq ft house is pretty good for its value Um That said I took a look at the numbers and it seems like when comparing the house that you have to offer at 18 40 60 cost per square foot is actually a good map higher Um So in that case I was hoping that I could readjust the offer to 200 flats",0,10.971
+214,19,seller,"Um Well even with that Price is still well below the square footage because 1715 square footage is still at least $213,300 And this is not including the fact that the kitchen is like it's included with all the appliances and its newly decorated So we're not talking about old house here We're talking about something that's been nearly decorated and just like beautiful landscaping Mm",1,10.971
+214,20,buyer,wow I want to start house built,0,10.971
+214,21,seller,It was built in 1947 but since everything has been recently renovated I don't think that would be a major issue,1,10.971
+214,22,buyer,You know when the renovations were performed,0,10.971
+214,23,seller,"Well it states here in the description that it's been newly decorated so it'll be recent within the same year Of course Mhm I could lower the price maybe like 2 36,000 but I'm not really sure I'll be willing to go below that price Since you started at 1 80,000",1,10.971
+214,24,buyer,"Let me think to 36,000 for a house from 19 Sorry When do you say it was built again I don't remember that number",0,10.971
+214,25,seller,It was built in 1947,1,10.971
+214,26,buyer,1947 Um Do you by any chance have the Uh huh The ages of the house that you're referring to for the 1700 sq ft house,0,10.971
+214,27,seller,Do you want the listing number or what information are you looking for,1,10.971
+214,28,buyer,Um Do you happen to have the age of the house for the comparison Uh the one that was 1715 square foot,0,10.971
+214,29,seller,No they don't provide it,1,10.971
+214,30,buyer,I see Um Yeah I only ask because I'm trying to you know way out the uh the different variables right now like the age of the house I understand that this one has a lot of renovations done and it does sound like a very good offer for per square foot in that terms but I think to me the priorities more on the other aspects of it Um So I'm trying to figure out if Your offer of 2 36 is going to make sense for my goals,0,10.971
+214,31,seller,Well will you be willing to adjust your previous offer,1,10.971
+214,32,buyer,Um so [PERSON] Sorry give me a moment Yeah Yeah Mhm How does 218 sound,0,10.971
+214,33,seller,Um that's still a good low,1,10.971
+214,34,buyer,"In my case for that It is in terms of the per square foot it is nearly the value for the uh smaller home that's valued at 213,000 Um but my concern is that this particular unit you're trying to sell is quite old From my understanding like 1940s Like uh I understand that there's new renovations and um decoration is done on top of the original structure which I appreciate But uh my family has a couple of you know young kids and then we just don't want to worry about the or construction material and uh you know possible uh previous exposure light and all that So um my understanding is that the other houses are not as old or I don't have evidence of that So that's why I would offset the square footage of a little bit um mm hmm",0,10.971
+214,35,seller,I mean usually the main concern of old houses is that the interior the hardware is out of date But since it's nearly decorator renovated and it even includes like updated landscaping and it's a brick house I don't really think the age of the houses that much of a factor in the price,1,10.971
+214,36,buyer,Mm,0,10.971
+214,37,seller,"So I mean if you want I could lower it a little bit more to maybe 2-30,000 But anything below that Yeah Anything below that I will have to like end this conversation Yeah Mm hmm Yeah Okay Mm",1,10.971
+214,38,buyer,What what how would you feel if I just matched it based off of square footage alone like to the other house you were using for comparison,0,10.971
+214,39,seller,"Well even if we matched I'm giving you a really good offer since 1875 is already giving to 33,600 And the square footage 1846 only approximately a little bit less than dirty square foot difference So if you're not willing to accept to 30,000 I'm not really sure how you're",1,10.971
+214,40,buyer,calculating It's 30 square foot difference from a 1715 square foot house,0,10.971
+214,41,seller,From 1875 square foot house,1,10.971
+214,42,buyer,"Oh I was referring to the one you mentioned earlier which is the 1715 sq ft for 213,000",0,10.971
+214,43,seller,"mm 18 75 square foot is already asking for 2 33,600 And I'm giving you a house for 2 30,000 For only like about 30 square foot difference",1,10.971
+214,44,buyer,Right Um And I hear you on that it's just that when I use the smaller house the 1715 just because size is not the biggest factor for me uh the analogous I guess equivalent conversion is around 228,0,10.971
+214,45,seller,Well since this is the only house available that I'm telling you if you're looking for a smaller house then we don't have that property available,1,10.971
+214,46,buyer,Yeah How did you feel About 329 I think that's a fair compromise between the two,0,10.971
+214,47,seller,Uh I guess this conversation is over then I guess there's no deal then,1,10.971
+214,48,buyer,Yes So you're pretty adamant on 2:30,0,10.971
+214,49,seller,Yes Too dirty Or there is no deal,1,10.971
+214,50,buyer,Okay 2 30 years,0,10.971
+219,0,seller,Hey how you doing,1,2.886
+219,1,buyer,I'm well how are you,0,2.886
+219,2,seller,Yeah I'm all right I'm all right so you want to buy a house A,1,2.886
+219,3,buyer,I do Um I'm looking to purchase a house How about 2-20,0,2.886
+219,4,seller,To 20 wow that's super low I mean this house is it's beautiful it's built in 1940s It's close to schools it's really really good So I'm thinking at least 2 40,1,2.886
+219,5,buyer,Yeah 2 40 is way out of my price range How about 2 25,0,2.886
+219,6,seller,I mean you need to come up a bit more than that Um And if you look at the price of other houses in the area they go for a lot more than that So how about we say 235,1,2.886
+219,7,buyer,Yeah I'm not really trying to spend 2:35 I'm happy to go up Another 1000 So how bout to 26,0,2.886
+219,8,seller,U 26 - 26 I tell you what How about if you put another 4K On top of that we make it to 30 and we can both be happy with with the sale,1,2.886
+219,9,buyer,What about 2 27,0,2.886
+219,10,seller,No you're pulling my leg now now I think my house is worth 2 30 I'm gonna stick with 2 30,1,2.886
+219,11,buyer,About 2 28,0,2.886
+219,12,seller,You really really pushing for two K Now I know what my houses with so no more than 2 30,1,2.886
+219,13,buyer,Okay how about 2 29,0,2.886
+219,14,seller,What mm You're really gonna you're really gonna lose this this beautiful house for one K For one grand,1,2.886
+219,15,buyer,It's cove it you know every little bit,0,2.886
+219,16,seller,I get it I get it But I mean what do you really like about the house,1,2.886
+219,17,buyer,Um You know that it will work for my family and I you know we're expanding our family and so we love that there's just a lot of space that's available Um And plus it has a great yard which will certainly come in handy when it gets nice again,0,2.886
+219,18,seller,Excellent Excellent Well all of that is definitely worth at least 1000 So let's make it 2 30 I'll shake your hand and we can both go our separate ways,1,2.886
+219,19,buyer,All right you're a tough negotiator will go for 2 30,0,2.886
+22,0,buyer,Yeah Mhm Okay,0,4.547
+22,1,seller,Um,1,4.547
+22,2,buyer,Yes I can All right awesome Um Well I was thinking considering the some of the prices in the area That I would be willing to offer around or about to 20 as my starting offer Um Yeah I just think that Uh considering the house with so much specification sold for 2 13 it's a pretty generous starting offer,0,4.547
+22,3,seller,Yeah mm,1,4.547
+22,4,buyer,mm Do you have a counter offer or just thinking,0,4.547
+22,5,seller,"All right So the counter will be to 40,000",1,4.547
+22,6,buyer,Yeah that is not gonna work for me but I can go up to 2 25,0,4.547
+22,7,seller,Mhm Lowest The absolute lowest I can do is to 30,1,4.547
+22,8,buyer,The absolute lowest Yeah And how did you come to that,0,4.547
+22,9,seller,Well I mean it's basically my break even point I would have to get more than 2:30 to do it to get any kind of gain,1,4.547
+22,10,buyer,Mm,0,4.547
+22,11,seller,"2:30 is also in line with the square footage So the house is 2 13,000 Um If you use the same rate per square foot and then you compare it to the 18 46 square video space in this house You're basically arrive at 2:29,000",1,4.547
+22,12,buyer,"Do you arrive at 2:29,000 So what about We split the difference to 29 50 Or 2 29 500",0,4.547
+22,13,seller,Well if you look at the actual calculation it's 2:29 592 So if you want to look at the difference it would be like to 29 7 500 But at that point I wouldn't want to sell the house at all Mm,1,4.547
+22,14,buyer,Mhm Okay Um And that is your that is your limit 2:30 You're holding to that Yeah Um mm Okay I'll have to think about it Yeah Mhm Mhm Yeah mm Yeah Mhm 2 30 Sounds Good,0,4.547
+229,0,buyer,Hey Hey,0,2.577
+229,1,seller,listen have you started recording yet,1,2.577
+229,2,buyer,Yeah I have Are you good to,0,2.577
+229,3,seller,Yeah so uh,1,2.577
+229,4,buyer,"yeah I'm looking for a house somewhere around the like 200 men $5,000 Yeah What are you thinking",0,2.577
+229,5,seller,House is worth 2 40,1,2.577
+229,6,buyer,2 40 iron I have here that uh There are similar houses in the area worth 2 15,0,2.577
+229,7,seller,You have a smaller it's a little yeah they're smaller so all right close to schools So how about 2:35,1,2.577
+229,8,buyer,Um That's still a little high,0,2.577
+229,9,seller,Yeah So what are you thinking,1,2.577
+229,10,buyer,to 20,0,2.577
+229,11,seller,No no it's too long Right Um If we agree on maybe 2 30 two that should be fine,1,2.577
+229,12,buyer,2 32 mm All right Yeah Um Maybe that's still a little bit out of my price range Um How about 2 25,0,2.577
+229,13,seller,It's way too low it's way too low This houses place to schools It's in immaculate condition So I'll tell you what let's just shake on 2:30 PM How about that,1,2.577
+229,14,buyer,2 30 Um All right Yeah I can do to 30,0,2.577
+230,0,buyer,"already good too Yeah so uh yeah Mhm Mhm I'm looking for a house somewhere around the like 200 men $5,000 Yeah What are you thinking",0,2.377
+230,1,seller,House is worth 2 40 C 40,1,2.377
+230,2,buyer,Irene I have here that uh There are similar houses in the area worth 2 15,0,2.377
+230,3,seller,You have a smaller two Yeah they're smaller so all right close to schools So how about 2:35 Um,1,2.377
+230,4,buyer,That's still a little high,0,2.377
+230,5,seller,Mhm So what are you thinking,1,2.377
+230,6,buyer,to 20,0,2.377
+230,7,seller,No no it's too long Right Um If we agree on maybe 2 30 two that should be fine,1,2.377
+230,8,buyer,2 32 mm All right Yeah Um Maybe that's still a little bit out of my price range Um How about 2 25,0,2.377
+230,9,seller,It's way too low it was way too low These houses close to schools It's in immaculate condition So I'll tell you what let's just shake on 2:30 PM That was it,1,2.377
+230,10,buyer,2 30 Um All right Yeah I can do to 30,0,2.377
+232,0,buyer,Oh yeah I forgot to do that too,0,2.532
+232,1,seller,Mind recorded,1,2.532
+232,2,buyer,Okay same Yeah Um Okay so what do you think About 210 1000,0,2.532
+232,3,seller,"Um I was thinking quite a bit hard Higher Um I was gonna offer to start um 260,000",1,2.532
+232,4,buyer,"Um Yeah that's definitely hi for me Um What about yeah like 200 20,000",0,2.532
+232,5,seller,"Um I would say that's getting closer to what I'm willing to sell for but um I just know that this house is in a pretty good location and um I've heard from a couple of realtors that it should be a little higher So um I'll come back to you at about uh Mhm 245,000",1,2.532
+232,6,buyer,"That's still high for me Um And Mhm Sure Um The listing price Sure Like for like the this house is close to other houses on the market that are selling for like to Around 230,000 Um Would like to 27,000 work",0,2.532
+232,7,seller,"Um How About 230,000",1,2.532
+232,8,buyer,Yeah 230 works,0,2.532
+234,0,buyer,problems recording if you don't know Good Yeah Good Thank you so much It yeah if you haven't initiated the meeting sometimes you cannot record it so and that's what's going on here Um Yeah basically I guess I'll just start off I wanted to offer 2 24,0,4.979
+234,1,seller,"That's uh that's a bit low Um I someone else wanted to buy this house for 300,000",1,4.979
+234,2,buyer,"Well Why did you not sell it for 300,000",0,4.979
+234,3,seller,Sorry say again,1,4.979
+234,4,buyer,"Did you just say that someone wanted to buy it for 300,000",0,4.979
+234,5,seller,Yeah,1,4.979
+234,6,buyer,Um Why did you not sell it at that time to that person,0,4.979
+234,7,seller,Well I was I was waiting to see if there are any other offers So I was looking at offers on the table but I'm willing to reduce it for you though Right Um,1,4.979
+234,8,buyer,"Sorry Yeah Um Well um they Mhm Okay Uh it's still escapes me why someone would offer you 60,000 over your asking price Um And then you wouldn't just take it Was there some problem with their financing or something of that nature",0,4.979
+234,9,seller,Yeah Yeah I wasn't sure exactly I looked through a financial stuff and it looked a bit sketchy so and you know you know like people can scam you and all that and I thought maybe it was on the scammers so I considered it Well I did some background checks and no just no,1,4.979
+234,10,buyer,Oh okay Yeah I can understand Well just to explain basically I've already been pre approved for um for this financing for this purchase Um And um so Why don't we say 230 counter offer,0,4.979
+234,11,seller,"Um 270,000",1,4.979
+234,12,buyer,No,0,4.979
+234,13,seller,"Yeah because obviously like uh 300,000 was a bit too much I believe So I'm lowering it down a bit No",1,4.979
+234,14,buyer,but that's that's above your asking price To 70,0,4.979
+234,15,seller,to 70 mm Wait So are you so you're not going to take to 70 Right,1,4.979
+234,16,buyer,Oh no,0,4.979
+234,17,seller,Okay Okay Do you have a counter offer,1,4.979
+234,18,buyer,Uh Well you're asking crisis to 40 Is that not correct,0,4.979
+234,19,seller,by asking for a way Well wait was that did I say that in yours,1,4.979
+234,20,buyer,I'm sorry,0,4.979
+234,21,seller,Oh I mean like um did that say that in the role for your own the buyer Did you see how much the house is worth or something,1,4.979
+234,22,buyer,No No I thought that the listing was at a certain price I thought it was listed at a certain christ,0,4.979
+234,23,seller,"That's right The listing yes Oh yeah I forgot about that Um yes the asking price is 240,000",1,4.979
+234,24,buyer,Okay You worried me I thought we had completely different directions I,0,4.979
+234,25,seller,forgot about That's my,1,4.979
+234,26,buyer,bad Yeah so anyway uh Yeah I did want after 2:30 against the 2:40 Um,0,4.979
+234,27,seller,"Well what do you think about 2:30 235,000",1,4.979
+234,28,buyer,Uh to make me feel better Can you make it 233 1000 Uh huh,0,4.979
+234,29,seller,Mhm mm Yeah actually I can do that,1,4.979
+241,0,buyer,Hello,0,4.577
+241,1,seller,Hi,1,4.577
+241,2,buyer,Hi how are you,0,4.577
+241,3,seller,I'm good how about yourself,1,4.577
+241,4,buyer,Good Thank you Um So I am extremely interested in your property and in Centerville Great Great Oh my God it was very lovely There were a few things that definitely you know could use some updates or work but I'm sure you know that,0,4.577
+241,5,seller,Yeah So um what do you what do you like about the house I know it's right in the middle of Centerville right near centennial Park It's a super desirable area um Super close to restaurants and some nightlife if you're interested in that So I'm sure you already know But what what do you like most about the house Um,1,4.577
+241,6,buyer,I'm definitely looking for several bedrooms So I like how it has four bedrooms and then you know potential for that recreation room the bathrooms Where you know 2.5 baths for four veterans is also good I think this space You know is great as well The 1846 4 ft I enjoyed how we wouldn't have to redo the hard work floors that they're already finished Um And the appliances included and start like notes and that's great And then also you know the the landscaping I thought was very nice and updated with the time which is appreciated So,0,4.577
+241,7,seller,Oh perfect So I'm glad I'm glad you really like the house Yeah we put actually a lot of work into it since we've lived here So um yeah we were hoping to sell it for a pretty reasonable price Um We do have a we do have a price in mind that we that we have listed it for but we are open to negotiating,1,4.577
+241,8,buyer,Wonderful Um So I you know I'm gonna I'd like to place an offer with my real estate agent but wanted to talk to these birds Um Thanks you know my family and I are comfortable going in at about uh Let me see here So I wrote down and I know um 2 15,0,4.577
+241,9,seller,Okay we have it we have the asking price at 2:40 and that is because it's a substantial size We do have that fourth bedroom Um A lot of the houses in the area do not have 2.5 baths and plus that extra playroom recreation room So if I was to counter I would come down probably to uh 2 35,1,4.577
+241,10,buyer,That is still I think too too much to be honest just because you know with the detached garage with four bedrooms Um You know and the individuals that would be living in my home it's only in our space for really the two cars and it's detached So that was kind of a turn off the fact that you know I did some research within the area and there are houses that were substantially bigger selling for um you know around that price So I think you know I will counter into 35 in common at about 222,0,4.577
+241,11,seller,Okay I mean just given the area I think we did update the landscaping there There's a completely fenced in backyard which a lot of the other houses did not have We did a lot of landscaping took down trees um and it is within walking distance of restaurants and like different you know different places downtown So I think I would only be comfortable going down to um about two 32,1,4.577
+241,12,buyer,and okay what would you say if If we landed on an even 2:30 um just because I know you said it's close to the restaurants and transportation but again after doing a lot of research in the area just given the sheer square footage and the fact that that area gets a lot of traffic I think that is you know the next area desirable Yes But also there's a lot going on and you know with small Children to fill out of the bedroom That's a that's a concern for my so,0,4.577
+241,13,seller,Um I would be happy to take your offer of 2:30,1,4.577
+245,0,buyer,good how are you,0,4.937
+245,1,seller,Good Um So yeah I'm the son of the house I are we supposed to go in a certain order,1,4.937
+245,2,buyer,I don't think she said to I think we can go in any order so I'll let you start,0,4.937
+245,3,seller,Awesome Uh So yeah I've been stuck in the house I sell that to 54 to 40 Um Not much has been happening so I'm going to go down but not by much Um What's the offer that you're willing to give me,1,4.937
+245,4,buyer,So listen my price range is lower than that I'm not they really I can go kind of Max is gonna be to 20 for me Um Looking at the the neighborhood and how close you are to the loudness of the city It's not ideal for me So I know yeah I can't can't go much higher than that,0,4.937
+245,5,seller,That's tough Um Yeah my my house is a lot of cool stuff Has the backyard Um I don't know why I imagine this is Chicago for some reason but um that's pretty cool There's okay The fireplaces are great I'll give you that um before bed 2.5 bath Like one of them is probably like connected to the bedroom I don't know How do you how do you feel about 2 35 How hard the account,1,4.937
+245,6,buyer,and go up that high Listen I looked at the other area the other houses in the neighborhood and they're selling for for a lot less And listen this is an older house there's probably some foundational issues There's probably going to be some work that needs to go into it I know there was a facelift done Um But really I think to 25 is going to be by my upper bound,0,4.937
+245,7,seller,So I pricing and even if you sell it at the same price per square foot it's still like 200 something,1,4.937
+245,8,buyer,right Yeah The pricing person So you're offering to 30,0,4.937
+245,9,seller,Yeah,1,4.937
+245,10,buyer,listen I'm trying to make a profit on this so when I resell it right I'm gonna have to put money into it as well So if I'm selling it for 230 later on I need to have some margin for myself Right So what about 2:27 Mhm Okay Yeah Text to 27 sound,0,4.937
+245,11,seller,I Sounds like 2 30 is pretty much my floor,1,4.937
+245,12,buyer,All right Like I said I don't think I can can go that high Right I'm gonna have to put money into it to fix a lot of the issues that are in the house and then I'm gonna have to resell it right So I need it myself,0,4.937
+245,13,seller,"But what's what's like that $3,000 difference You know like is there really that much that's going to go into that in your profit Like housing prices are going up so much you know like they're going to go up like thousands of dollars",1,4.937
+245,14,buyer,That's not necessarily TRUE right inflation happens each year and housing prices like the housing market hasn't been too consistent lately right Certain areas especially city centers now now if you look at this is a city center right Uh with with Covid and everything going on in pandemics probably gonna be the new normal uh People aren't looking to move into into those areas,0,4.937
+245,15,seller,Um I think the,1,4.937
+245,16,buyer,I don't think is,0,4.937
+245,17,seller,Overstated and especially considering the past 20 years of housing price increase like it's not enough to cancel that out Like housing prices have consistently increased faster inflation Like not like obviously like year on year but like if you calculate the average over time like my like I'll paste it by a lot I can send you a chart if you want,1,4.937
+245,18,buyer,Um I would again disagree with that statement right Because we're looking at right now this isn't a an unexpected turn of events right The housing market isn't what it used to be And I think this is setting up a lot of people to not want to be in city center so The last 20 years might be one thing But again this is unprecedented times So I don't want to go into this making a loss,0,4.937
+245,19,seller,Well you don't know that's the whole point,1,4.937
+245,20,buyer,Same goes for you right I know you're trying to sell the house at one place but still a little hot,0,4.937
+245,21,seller,How about let's split the difference to 28.5,1,4.937
+245,22,buyer,I'm Good with 2 28,0,4.937
+245,23,seller,Sure let's go for it,1,4.937
+252,0,buyer,Hello Hello Hello how are you I'm good how are you I'm good Also yeah I would like to buy a house Yeah Yeah,0,1.245
+252,1,seller,sure What do you what are you prepared to offer me,1,1.245
+252,2,buyer,Um I think because you know the economy is not very nice now so I think it would be Uh cheaper I think Um my budget is about 22 200 - 220000s,0,1.245
+252,3,seller,Okay I think I think that's a pretty good starting point Um I my um original Off my original asking price was 2:40 Um Is there any way you could do like 2 35,1,1.245
+252,4,buyer,235 is a bit too much for me because yeah you know uh yeah how about a little bit lower,0,1.245
+252,5,seller,What are you thinking What are you thinking,1,1.245
+252,6,buyer,Um um And 230 other,0,1.245
+252,7,seller,I think I can do to 30,1,1.245
+254,0,seller,Hi All right how are you,1,3.247
+254,1,buyer,I'm doing well how are you,0,3.247
+254,2,seller,Good good,1,3.247
+254,3,buyer,good Um So in reviewing your house I'd like to put in my first offer at 2 17 AM I noticing that the house is smaller than some of the others around the neighbourhood It's also um fairly old So I think there's gonna be some upkeep that will need to do um to keep it,0,3.247
+254,4,seller,"So the asking price is $240,000 as I'm sure you're aware I don't think I agree with your keep comment I mean like um we recently it's really decorated inside We finished the hardwood floors Um you know so it's there's some updated bricks outside Like I don't think there's too much too much in the way of update that we haven't already covered",1,3.247
+254,5,buyer,I don't know I noticed that the appliances aren't stainless steel they're just listed as all appliances when it's not detailed Diets to assume to think it's older outdated appliances The newly decoration is less than a new remodel,0,3.247
+254,6,seller,Well you know how like this is really cool things like played obsolescence right So like I find out like usually older uh appliances especially things like refrigerators and whatnot Like the older ones honestly last a lot longer than one the ones that you buy right now Um,1,3.247
+254,7,buyer,Yeah but I'm doing a short term investment so I'm planning like I'm here for a few years while my spouse is working and then we've got to move So I'm thinking longevity of um in five or so years when I'm leaving What like where I'm going to be I'm sorry,0,3.247
+254,8,seller,um Okay well I'll break down So I had 240 I'll bring it down to 238,1,3.247
+254,9,buyer,Okay Um there's no description about the roof and I've noticed that homes built before 2000 and normally the roofs are needs some work So what about uh 2 20,0,3.247
+254,10,seller,I don't think I can go for that But again I don't know if I agree with your characterization but look like I worked very hard on it and you know it's the entire out the entire outside it's all it's all updated The landscaping is just absolutely marvelous and beautiful The backyards offense to everything Giant garage Like I don't know I mean the roof itself like it isn't Okay How about I'll still forget down a little bit but I got to just 235,1,3.247
+254,11,buyer,Okay Um what about so there's a home that's slightly bigger near you Um That I've three tell is A little over a little closer to 2:34 so what about 2:33,0,3.247
+254,12,seller,Mm You got yourself a deal for 233,1,3.247
+256,0,buyer,Hello Okay look this is not a situation Can you hear me very well,0,5.305
+256,1,seller,Can you hear me,1,5.305
+256,2,buyer,Yes I can hear you just fine Okay,0,5.305
+256,3,seller,great helps it by a mute,1,5.305
+256,4,buyer,Yes,0,5.305
+256,5,seller,So what is it I'm the seller,1,5.305
+256,6,buyer,Yeah,0,5.305
+256,7,seller,All right so um I just want to present this house too I believe it's a lovely house and that will meet all your needs Um It's a single family home and um it has enough bedrooms for quite a large family and includes a recreation room that everybody loves And uh or if there's a lot of space for those big screen TVs that everybody has these days Uh Do you have any questions on it at this time or do you want me to go through some of the amenities,1,5.305
+256,8,buyer,No not at all Um I'm wondering what price you're aiming to sell your house at,0,5.305
+256,9,seller,"Um I believe that it's a beautiful house and worth every penny You know there was a lot of heart and soul put into it and we'd like to get um price that we feel is relative to the market and that Of $240,000",1,5.305
+256,10,buyer,"Yeah that's really high for me and I'm aiming to get around $220,000",0,5.305
+256,11,seller,Um Yeah we're at a big discrepancy right now so maybe I could go into more details about what the home offers that might make it more appealing to you and see why I feel it's worth the value of the 240 has uh a lovely master bedroom with a master bath a large eat in kitchen which we all love that favorite place of the house with some fireplaces Um For those cold winter nights in the New England area Um I mean I can negotiate a little but not too far down I think like I said it's worth everything Um It has to offer So to 35 will be one of my final offers,1,5.305
+256,12,buyer,I think 235 is still too too high for me and maybe,0,5.305
+256,13,seller,two,1,5.305
+256,14,buyer,25,0,5.305
+256,15,seller,"Um We're still a little far apart Um So I'd like to just try to you know again uh Reiterate that it's near restaurants Um It's you know has out it has updated bricks so it'll save you on any long term repairs down the road Uh The newly decorated um rather rather large state Yeah a rather large space Um And I think it would be perfect for you and your family So I'm I could go down like $2,000 to 2 30 Where was I 2 30 five",1,5.305
+256,16,buyer,Yeah I think to 35 is too high and I cannot accept that offer Um we are looking at other houses that are willing to pay much lower Uh so I could go up to 27,0,5.305
+256,17,seller,Um I think I'm gonna lock in at 2:32 because I feel that for everything in the area there's not a lot of homes that sell it's one of the nicest areas in the town Um I think it's worth every penny and I think you'd be very happy there,1,5.305
+256,18,buyer,Um you drive a really hard bargain How about lock out at 2:30 and call it a day,0,5.305
+256,19,seller,How about the 2:31 and then I'll be happy,1,5.305
+256,20,buyer,No I can't go farther than 2.32:30 is my highest offer,0,5.305
+256,21,seller,Okay Um Can I think about it and let me see what else I could think of You know it has a fenced in yard If you have a dog I don't know if you have a dog that would be something that would be useful Do you have any pets,1,5.305
+256,22,buyer,Uh no I don't have any pets but really I'm stretching my budget way over already by just saying to 30 that's the highest I could,0,5.305
+256,23,seller,Really go Okay I mean I'd accept to 31 and then uh we can call it a split I've come down from when I started at 2:40 So that's a pretty significant drop,1,5.305
+256,24,buyer,Yeah I really can't to 30 is the highest I will go,0,5.305
+256,25,seller,Um um Let me uh see what else we have here Um,1,5.305
+256,26,buyer,We are local control Oh yeah,0,5.305
+256,27,seller,yeah okay I guess we'll have to settle on Okay let's say um 2 30,1,5.305
+259,0,buyer,Hello Hi how are you Good how are you Well,0,4.192
+259,1,seller,thank you cold,1,4.192
+259,2,buyer,"Yeah we just one quick question We can use both appendices Mhm Okay Cool Um so my starting price is $180,000",0,4.192
+259,3,seller,"I'm sorry That's unfortunately too low I was really thinking of um 2,045,000",1,4.192
+259,4,buyer,Okay wait sorry can you repeat that,0,4.192
+259,5,seller,"Sure um 245,000 I took 40",1,4.192
+259,6,buyer,Yeah Uh I'm afraid I can do that Okay Um What if I,0,4.192
+259,7,seller,just really love this house and I've done a lot to build it up Have a lot of memories here made sure that it's good for the market I mean comparatively I was doing some research and um my real estate friends believe that's like a pretty fair price to ask,1,4.192
+259,8,buyer,"Yeah I've been doing some research too and prices of similar outside the houses of similar amenities and um square footage are generally priced at lower than that so I'm afraid I can't go that high What about Something closer to $210,000 Um That's still",0,4.192
+259,9,seller,a little low for me I was wondering what kind of like square footage you were looking at and how much those were Because mine is like at a pretty decent 1800 Um and then based from my calculations like The closest 1800 square foot unit is already asking for 233 Um And they don't even have like newly decorated amenities,1,4.192
+259,10,buyer,"Uh huh I'm not entirely sure that information about the decorated amenities He's right I think the house with A similar square footage to 1800 So even bigger than that already has similar amenities and declarations as the house you are selling And that's price That's Closer to 230 1000 rather than 140,000 That's why I think it's fair that this is the price of this house should be lower than that one Um",0,4.192
+259,11,seller,With the square footage Are you looking at uh 1875 sq ft unit Yeah Okay And the selling price for that was 233 Yes Got it Um So I would be much more comfortable with that price range around that area Um I don't know how you feel about that,1,4.192
+259,12,buyer,I feel it's a little too high for me because well I can get the slightly bigger house for that What about something um Closer to 200 and 25 I need somewhere in the middle Um,0,4.192
+259,13,seller,The last person I had um we had discussed this and they were thinking about 230 which I felt was already um a compromise,1,4.192
+259,14,buyer,Okay Um I'm not sure I can go above 200 and 30 Are you saying you would agree to a price of 230 or that you would not be comfortable with that Either,0,4.192
+259,15,seller,I can compromise with 230,1,4.192
+259,16,buyer,Okay then I think we can reach an agreement at 230,0,4.192
+260,0,seller,Oh my God already,1,0.895
+260,1,buyer,Okay Okay so yeah do,0,0.895
+260,2,seller,you have any offers,1,0.895
+260,3,buyer,Yeah To 15,0,0.895
+260,4,seller,Oh wow,1,0.895
+260,5,buyer,Uh 2020 is reasonable,0,0.895
+260,6,seller,Um That's a little low for me I was thinking more along the lines of 2 35,1,0.895
+260,7,buyer,2 25 Mhm,0,0.895
+260,8,seller,I I think I could I do too 27 I don't think I can go as low as 2:25,1,0.895
+260,9,buyer,How do you feel about 26,0,0.895
+260,10,seller,Um I think I'm gonna stick to 227 I really feel like my house has got that value and and despite the fact that it's old we've done a lot of repairs mm and it's in very good condition,1,0.895
+260,11,buyer,Okay um I'm good with 227,0,0.895
+267,0,buyer,Hi how are you I'm good how are you Thanks You ready to get started,0,2.971
+267,1,seller,Yeah,1,2.971
+267,2,buyer,"Okay great Um So um I'm interested in buying your house and I'll start by making an offer of 218,000",0,2.971
+267,3,seller,"Okay Um Free I think this house is a really good house Uh It's like a location and I wanna reach a little bit higher and say um 240,000",1,2.971
+267,4,buyer,"Yeah I mean I do agree It's a great location Um However it's for what I see on the listing it looks like it's about 1800 sq ft And you know some simple similarly sized houses have sold recently for From 213,000 Um I think maybe I don't know I'd like to make a counter offer 220,000",0,2.971
+267,5,seller,Okay Uh Yeah I do agree There have been houses with like similar uh Yeah just similar what basis and amenities at this house Fast But um it's just when I renovated this house Um I feel like it's a pretty it's pretty nice just four bedrooms 2.5 bathroom And since it's like pretty old I want to say um I will telling her you're um I was out there you're proposal with um When are you to 5000,1,2.971
+267,6,buyer,Sorry How much was was your counter offer,0,2.971
+267,7,seller,22 5000,1,2.971
+267,8,buyer,"225,000 did you",0,2.971
+267,9,seller,"Say 25,000 Okay",1,2.971
+268,0,buyer,Okay I just started recording So did I Okay how you doing I'm,0,2.65
+268,1,seller,good how are you,1,2.65
+268,2,buyer,Well um this is interesting I guess Um just look at the at the tab Um Yeah so I guess we can just start with the basic number and then we can kind of With how we feel I think to 15 is where I would like to be Um a stuff of like what I'm what I'm looking at,0,2.65
+268,3,seller,unfortunately I can't go that low Um It's a really really nice house and it has a great resale value So I'm looking more like 2:40 So if you want to work from there,1,2.65
+268,4,buyer,yeah you know I'd be willing to to work work a little bit Um Honestly my price range is not not that much higher Um what can you do better than to 40,0,2.65
+268,5,seller,Uh Well considering it's such a great neighborhood in such a great house and as I stated before the resale value is tremendous So if you ever had to sell you would never lose on this I could go to 35,1,2.65
+268,6,buyer,35 Yeah it's still a bit high So um you know I'll be honest I'm not really looking at this I understand you have a nice amenities and you know fireplaces are great and all but I am a student and I'm not really you know I don't really need too much I'm kind of just looking for the area and and uh you know just looking at some of the other listed prices Um You know they're similar stuff going on for 2:15 - 13 There's some higher end stuff that is being offered closer to I guess the price range you're looking for But um I'm not that kind of buyer right,0,2.65
+268,7,seller,Unfortunately I can't really go much lower Where where is your like top,1,2.65
+268,8,buyer,Um yeah I want to work with you to make something that is good for both of us Um I could go up until like 2 17,0,2.65
+268,9,seller,Yeah That still puts me in a bit of a bind As far as I'm also purchasing a house myself So,1,2.65
+268,10,buyer,I,0,2.65
+268,11,seller,probably have to go firm at like 2 25,1,2.65
+268,12,buyer,25 Um 25 I can do to 25,0,2.65
+271,0,buyer,"Hi I would like to offer $200,000 for this house",0,3.505
+271,1,seller,"Hello I think we're going to have to go a little bit higher than that My starting offer is 235 $1,000",1,3.505
+271,2,buyer,"Mhm I really like the house However I have also been doing a little bit of research on houses in the area with similar characteristics For example there's a house right nearby Um that has Over 1900 in square feet Whereas like this apartment Or this house is only 18 is less than 1850 square feet And that has sold for 230,000 Um So for me it's got to be a lesson Less than 2 35",0,3.505
+271,3,seller,"Okay I hear what you're saying I think that I'll talk a little bit about the beautiful inside and outside amenities that this house has to offer You have beautiful hardwood floors fireplaces master bedroom with an on suite bath newly decorated There's landscaping there's brick it's a beautiful home that you can do a lot with Um you know mid century split level style beautiful home Um So you know although there are homes that may be a little bit bigger um in the area I see that there is one you know that has 18 75 square feet which is a little bit more than the amount of square feet that this home has But sold for 233 1600 So I'd be willing to go with uh 2 30 If that sounds good to you 230,000",1,3.505
+271,4,buyer,"Um So I definitely hear what you're saying about the house like I do agree the amenities are like really nice It is a beautiful home Um But you know I think it has to be a competitive price right And like I am willing to raise my offer um I don't think I can do a whole ton more then So I initially offered you um $200,000 Right",0,3.505
+271,5,seller,Mhm,1,3.505
+271,6,buyer,I can go up two two 15 Um I mean we can keep negotiating but I'm not going to have a whole ton more wiggle room,0,3.505
+271,7,seller,"Okay I hear you on that I hear you on that Um I think I'd be willing to decrease my offer to 225,000",1,3.505
+271,8,buyer,Um I think 200 so 225 I think that could work It is a little bit more than what I would ideally like But I think I can work with that Yeah,0,3.505
+272,0,seller,Oh yeah we have to record Do I also have to press record too I think I should,1,12.53
+272,1,buyer,"Okay Uh Yeah I think so I think we we both need a no Not really Mhm All right So all right So I guess we can begin Right okay So um All right So I'd like to offer like to offer 189,000 for the house",0,12.53
+272,2,seller,"That is that is too low unfortunately Um I have it originally at 240,000 Um Is there any compelling reason why you think that it's worth 180,000",1,12.53
+272,3,buyer,Yeah Um Well yes I've been pricing houses in the area and um the prices of houses that are comparable in terms of square footage and other sorts of um features that the house that the house your house has Um The prices were much lower,0,12.53
+272,4,seller,"Really actually um I have I've actually compared the prices of neighboring homes with similar characteristics And um the house that I am currently selling has 108 um 1,846 sq ft of space Mhm And um other comparable ones were actually around the same price range Where there's one that is roughly 1900 square footage which is which is just 50 square footage off And that was priced at Um $239,000 Mhm",1,12.53
+272,5,buyer,"Okay So that's how much So so then you're willing to come down $1,000",0,12.53
+272,6,seller,Oh no I'm willing to negotiate,1,12.53
+272,7,buyer,Okay,0,12.53
+272,8,seller,"Negotiate I just cannot accept $180,000",1,12.53
+272,9,buyer,Okay So then what would your counter offer be,0,12.53
+272,10,seller,"Um My counter offer would I would be willing to go down Um Okay $4,000 So um 230 6000",1,12.53
+272,11,buyer,2 36,0,12.53
+272,12,seller,Mm Hmm Mhm Are there any like of the amenities that are not to your liking,1,12.53
+272,13,buyer,Oh no the amenities are are wonderful I did have um ah I did do a walkthrough with um you know with ah with an appraiser And we were looking at some of the some of the things in the house we were concerned about the heating system The heating system looks like it might be a little old So we might need to I mean the house was built 50 Good you know um 70 years ago So we were concerned that the heating system might need to be looked at and that can be that can run into tens of thousands of dollars So um you know that's something you know I'd want to consider if if I were to buy this house how much how much I would need to invest in bringing it up into a livable condition Um So I was hoping maybe you could budge a little bit on that one on the 236 Um,0,12.53
+272,14,seller,Do you have a um As far as I know I didn't I didn't know the heating was was an issue Um What what would you like to propose as a counter offer or one That's more a little more reasonable Mhm,1,12.53
+272,15,buyer,"Well let's see if if I'm going to put in a heating system let's say it goes Anywhere between 10 and $12,000 right So um I don't know maybe 1 92",0,12.53
+272,16,seller,that's still uh I I still cannot accept that Um I mhm I'd be willing to budge 7000 from my original offer so,1,12.53
+272,17,buyer,would bring it to,0,12.53
+272,18,seller,"2233 233,000 Mhm Mhm Just because I don't think this is the heating system would need to be completely overhauled and especially because of like the fact that there are two fireplaces um I don't think it's as much of an issue as um as the appraiser might have",1,12.53
+272,19,buyer,said the thing about the fireplaces I mean they are romantic but you can lose yeah you can I mean you put a fire in them and you can lose a lot of heat you have to clean those things every you know every year you need to get a chimney sweep in there God knows how many squirrels or whatever kind of animal decides to make a nest in there Um It can leak the flu can leak you know so it needs quite a bit of maintenance to it and I want to run the house sufficiently so and maybe the chimney needs some reappointing as well so you know I'm going to be laying out some money to bring this house up to snuff Um So I you know I don't know um but maybe yeah you wanted to say,0,12.53
+272,20,seller,oh no I'm sorry I was just going to say but like like having maintenance for any houses part of any good like homeowner,1,12.53
+272,21,buyer,and,0,12.53
+272,22,seller,that I don't think that should be the main consideration when if obviously if there needs to be um complete renovation but this was actually recently renovated,1,12.53
+272,23,buyer,Mhm So you renovated Ah you re pointed the chimney as well the two chimneys,0,12.53
+272,24,seller,I don't know exactly what you mean by repointing the chimney but,1,12.53
+272,25,buyer,well when you re point you check that you check the bricks you know because as it rains the little bit of water can seep in between being the bricks and can loosen up the mortar that holds the bricks together and eventually it begins to um you know dissolve and it needs to be taken care of,0,12.53
+272,26,seller,I can say confidently that the brick has been updated Okay,1,12.53
+272,27,buyer,Mhm Mhm And what about the roof Mhm I understand that needs some flashing and some and some work on it Um What is particularly,0,12.53
+272,28,seller,wrong with the roof I yeah there was renovations were complete and um this is the location of the place in general Um There were no issues with Mhm But what was their leakage in the roof,1,12.53
+272,29,buyer,"Uh There was concern that there might be yeah Um You know the appraiser said we might need to put some flashing up by the chimney Uh So there wouldn't be any leakage there Um Let's see how about if um how about if I offered if I can go up maybe $4,000 so maybe 1 99 How does that sit with you",0,12.53
+272,30,seller,"I still can't solid at that price Unfortunately I can go down to $230,000 Mhm I think that would be a price where I am comfortable with and especially because it's $10,000 off then then my original asking price I do think um you obviously don't need to uh completely redo the heating system but I think that should cover what maintenance the house would have but I don't believe that there's too much maintenance to be done Mhm Right Oh did you just get that notification",1,12.53
+272,31,buyer,Ah yeah he said we have about six minutes was it Mhm All right good Mhm,0,12.53
+272,32,seller,How does that price it with you,1,12.53
+272,33,buyer,I'm just thinking Mhm Okay It's it's it's too high really It's higher than I can then I wanted to do Um I don't know there are a couple other houses that I can have a look at Um That doesn't need so much work,0,12.53
+272,34,seller,unfortunately I just can't sell it that low So um if you do need to go look at other houses that that also may be an option for you Mhm What are you thinking currently,1,12.53
+272,35,buyer,"Well I'm thinking I could go up to maybe 200,000 but I really can't I really that's already pushing it Can you come down a little bit from 2:30",0,12.53
+272,36,seller,I can go to 27 but beyond that I cannot go any lower That's the best I can do Mhm It's already significantly lower than what I originally imagined Mm hmm And I do think that this would be actually a great price comparable to other houses in the neighborhood,1,12.53
+272,37,buyer,Well there was a comparable house that went for 2 13 So if you can do a little better on the 227,0,12.53
+272,38,seller,That is TRUE But I think that house is a little more run down And there are also other the two other houses that were roughly my square footage And they were one for 2:33 and 2:39 Mhm I unfortunately can't move my,1,12.53
+272,39,buyer,my yeah they're much bigger though That's the thing Not,0,12.53
+272,40,seller,Much bigger They're only like 20 square footage Well that um at the 1875 1 Well We're 1846 That's like 25 Mhm Mhm between 9 to be exact But,1,12.53
+272,41,buyer,how Well how about if I went to 10,0,12.53
+272,42,seller,I still can't go that low,1,12.53
+272,43,buyer,unfortunate Can you meet me in the middle Yeah,0,12.53
+272,44,seller,In the middle between 2 10 I still can't go Hello The price I offered is my is unfortunately my minimum price All right Yeah Yeah Okay Will you be looking at other houses,1,12.53
+272,45,buyer,Probably,0,12.53
+272,46,seller,Okay That's that's all right Yeah Unfortunately can't go lower than that I've already tried giving my best discount but unfortunately that um yeah I can't I can't do Um any lower than 227,1,12.53
+272,47,buyer,Okay Yeah,0,12.53
+272,48,seller,So have we come to a conclusion,1,12.53
+272,49,buyer,I guess so,0,12.53
+275,0,buyer,"Hi Nice to meet you Hello Hello Hello Hello how's it going Good how are you Mhm Mhm Can you hear me Yes Alright cool Um Okay so I'm the buyer Uh I'm looking to buy the house that you are selling and uh I think that considering the stats of the house and the prices of neighboring homes um $215,000 is uh a good selling price",0,4.56
+275,1,seller,"Um I will have to disagree considering that we have four bedrooms and 2.5 bathrooms And It is a 1,846 square feet which is larger than the houses in the surrounding area I'm considering selling it for 250 250,000",1,4.56
+275,2,buyer,"I think Okay I think 250,000 is way out of my budget Um Well I bet the house is quite nice and it is quite large It is still smaller than the house that sold for $233,000 Uh that house in uh 1,875 square feet So of my initial offer is a little low I'll offer 223,000 to account for it being smaller than the $233,000 house But a lot of large But",0,4.56
+275,3,seller,it's also nicer It's near the have things and sentinel parks And so it's in a much nicer neighborhood compared to the one that you're comparing it So these two houses are not very comparable And so I would like to raise that price I also dropped my prize a little lower and say um it definitely has to be higher than the house that you're comparing it to Right So let's say six,1,4.56
+275,4,buyer,"Thank you 40 Um I still feel like that's a little high Uh These are neighboring homes with similar characteristics So I think these are good houses to compare the home that you're selling to I mean the description for it is neighboring homes of similar characteristics So a lot of the amenities uh of the house that you're selling is shared by the houses um That are given in Appendix two So even though uh like I said even though it is a nice house and it is larger than one of the homes in the appendix I think Uh it is only fair for it to be sold for less than the house that it's at that's being sold for 233,000",0,4.56
+275,5,seller,Okay For help 1000 people Waller's So I would sell it a little less Since it's smaller 233 $500 But that makes sense,1,4.56
+275,6,buyer,"$100 less for 40 for 40 square feet less space Um How about How about 280 or $228,000 something Because I still can't I cannot possibly purchased the house for so much for such a comparable price when when you can look at the other homes that sold",0,4.56
+275,7,seller,"30,000 230,000 Okay That is 3600 less That's a lot of money 230,000",1,4.56
+275,8,buyer,"Yeah Okay I'm done with 230,000",0,4.56
+278,0,seller,Yeah sure Let me do this Cool,1,6.033
+278,1,buyer,Um So I'm the buyer I guess I'll just kick it off with the starting offer of yeah go for it Um 205 Okay,0,6.033
+278,2,seller,Yeah You know um my asking price is 240 K And mostly that's just because I think that my house has a pretty good location and there haven't been a lot of houses on the market so it's kind of the only one right now Um I would love to do talk more about the house if that would be helpful But yeah my asking price is 2 40 Okay,1,6.033
+278,3,buyer,well I'll just go on the record and say you know I'm pretty interested in Yeah the size of the house Right So relative to that with what I know about the market and other houses that are listed Um Quite frankly I think that your house is a little overvalued Which is why I started out with kind of a lois sh um starting offer um Other yeah the same size um Don't break aren't even close don't don't break 2 30 Um But yeah I mean if you want to talk more about the property itself I'd be happy to listen,0,6.033
+278,4,seller,"Yeah sure I mean I definitely understand that space is important I mean I'm living in New Haven I don't know about you right now so space is definitely a hot commodity Um So my house which you probably know is 1000 846 square feet Um It's sort of comparable to a neighboring home which is 1000 875 square feet Which is selling for 2332 102 133,000 and $600 Um So yeah you're right that that's a little bit bigger Um But not really that much only about like 20 square feet of space Um Which I think that you know my house kind of makes up for in fact in having just a really nice location you know I'm walking distance to other restaurants and transportation which will hopefully save a lot of costs in terms of getting a car or having to uber here back and forth between different places Uh we got a detached garage for 2.5 cars um and really really beautiful landscaping I'm willing to drop the price a little bit if it's square foot footage is really important to you because I totally understand that Um so I'm willing to say something about two maybe 235 Okay Um So closer to what you're saying about the houses nearby right around that that middle house in the in the appendix listing I'm not sure if we have the same page is good",1,6.033
+278,5,buyer,I don't I don't think we have the same page but yeah I guess you're saying about the location and I you know like the point about the space for the cars is great I don't have a car so I'm not really interested in and I mean you know I know a lot of yeah maybe you could convert it Yeah huge selling point of your house Are you know is that is that the garage and the the landscaping But I'm I have plans to kind of knocked down that garage if I buy the house Of course I have plans to knock down that garage and change landscaping uh is quite particular about those things So what those costs in mind Um Yeah I mean to to 35 is still too high and like I said given them at the square footage I don't really see why I would pay more for a house that's less Um Sure,0,6.033
+278,6,seller,Sure Yeah Yeah Um Can I ask you,1,6.033
+278,7,buyer,comfortable with like I mean I we really just don't have the budget to to do more than 2 30 which is kind of why I said the breaking of 2 30 are when I first spoke to you um Yeah our budget is Right around 2 20 to be quite frank And I know those expenses from any renovation plans that we have will just add right up Um So I'm trying to stay it's possible to that number,0,6.033
+278,8,seller,Yeah No totally understand if this is a little bit different than what you're looking for Um I'll tell you what so I also so to be fully transparent I would be losing money um if I sold for anything under 227 K And I think correct me if I'm wrong did you say your threshold was around 2 30 K,1,6.033
+278,9,buyer,22 I said 2052 to 25 So if you if your number is 227 could you do to 26 how do you feel about that,0,6.033
+278,10,seller,Um I I again I would be losing money so I think I would you know like I love getting to know you but if it's 226 I would rather hold on to it and sell it to someone else,1,6.033
+278,11,buyer,Okay if if you're if that's I mean if you don't want to sell to me I totally get that to 20 Yeah,0,6.033
+278,12,seller,is so to 27 is that not in your and you arrange on all you know hopefully we,1,6.033
+278,13,buyer,Could probably stretch it to 27 but that's the highest I can go,0,6.033
+278,14,seller,Okay I'm I think I'm willing to sell for 227,1,6.033
