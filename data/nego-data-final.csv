@@ -1,4 +1,4 @@
-conv_id,turn_id,role,word,speaker_id,duration_min
+conv_id,turn_id,role,text,speaker_id,duration_min
 100,0,seller,Hello Hello,1,8.199
 100,1,buyer,Hi how are you,0,8.199
 100,2,seller,Good how are you,1,8.199
