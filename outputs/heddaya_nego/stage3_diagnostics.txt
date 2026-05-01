@@ -1,0 +1,55 @@
+========================================================================
+STAGE 3: BARGAINING ACT ANNOTATION — heddaya_nego
+========================================================================
+[Step 1] Loaded and standardized data
+  Total turns       : 7,565
+  Conversations     : 178
+  Substantive turns : 5,803
+  Backchannels      : 1,762
+  Outcome assumption: all conversations set to sale
+
+[Step 2] Annotating bargaining acts...
+
+[Step 3] Layer 1 coverage:
+  New Offer      :   862 turns ( 14.9%)
+  Repeat Offer   :   654 turns ( 11.3%)
+  Push           :   607 turns ( 10.5%)
+  Comparison     :  1025 turns ( 17.7%)
+  Allowance      :   151 turns (  2.6%)
+  End            :   450 turns (  7.8%)
+
+  Multi-act turns   :   937 ( 16.1%)
+  No-act turns      :  3447 ( 59.4%)
+
+[Step 4] Layer 2 subtype distributions:
+  push_constraint          :    73 ( 12.0% of Push)
+  push_disparagement       :    17 (  2.8% of Push)
+  push_neutral             :   517 ( 85.2% of Push)
+  comparison_price         :   540 ( 52.7% of Comparison)
+  comparison_quality       :   299 ( 29.2% of Comparison)
+  comparison_mixed         :   186 ( 18.1% of Comparison)
+
+[Step 5] Buyer vs Seller profiles:
+
+  BUYER (2,951 turns):
+    New Offer      :   466 ( 15.8%)
+    Repeat Offer   :   322 ( 10.9%)
+    Push           :   298 ( 10.1%)
+    Comparison     :   515 ( 17.5%)
+    Allowance      :    88 (  3.0%)
+    End            :   193 (  6.5%)
+
+  SELLER (2,852 turns):
+    New Offer      :   396 ( 13.9%)
+    Repeat Offer   :   332 ( 11.6%)
+    Push           :   309 ( 10.8%)
+    Comparison     :   510 ( 17.9%)
+    Allowance      :    63 (  2.2%)
+    End            :   257 (  9.0%)
+
+[Step 6] Act frequency by outcome:
+  Push: sale=10.5%  no-sale=nan%
+  Comparison: sale=17.7%  no-sale=nan%
+
+[Step 7] stage3_annotated.csv saved: (7565, 18)
+  Path: /content/optimal-nego/outputs/heddaya_nego/stage3_annotated.csv

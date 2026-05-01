@@ -1,0 +1,5 @@
+model,mean_cv_auc,std_cv_auc,overall_auc,n_features,status
+M1_price,0.55,0.2238,0.5704,9,ok
+M2_ssm,0.712,0.1114,0.7426,20,ok
+M3_price_ssm,0.676,0.167,0.7009,29,ok
+M4_full,0.614,0.153,0.6139,48,ok

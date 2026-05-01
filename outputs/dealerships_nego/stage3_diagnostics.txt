@@ -1,0 +1,55 @@
+========================================================================
+STAGE 3: BARGAINING ACT ANNOTATION — dealerships_nego
+========================================================================
+[Step 1] Loaded and standardized data
+  Total turns       : 2,496
+  Conversations     : 48
+  Substantive turns : 2,492
+  Backchannels      : 4
+  Outcome values    : ['no sale', 'sale']
+
+[Step 2] Annotating bargaining acts...
+
+[Step 3] Layer 1 coverage:
+  New Offer      :   230 turns (  9.2%)
+  Repeat Offer   :   217 turns (  8.7%)
+  Push           :   114 turns (  4.6%)
+  Comparison     :    99 turns (  4.0%)
+  Allowance      :     8 turns (  0.3%)
+  End            :   457 turns ( 18.3%)
+
+  Multi-act turns   :   217 (  8.7%)
+  No-act turns      :  1617 ( 64.9%)
+
+[Step 4] Layer 2 subtype distributions:
+  push_constraint          :     7 (  6.1% of Push)
+  push_disparagement       :     3 (  2.6% of Push)
+  push_neutral             :   104 ( 91.2% of Push)
+  comparison_price         :    93 ( 93.9% of Comparison)
+  comparison_quality       :     6 (  6.1% of Comparison)
+  comparison_mixed         :     0 (  0.0% of Comparison)
+
+[Step 5] Buyer vs Seller profiles:
+
+  BUYER (1,261 turns):
+    New Offer      :   115 (  9.1%)
+    Repeat Offer   :   108 (  8.6%)
+    Push           :    55 (  4.4%)
+    Comparison     :    45 (  3.6%)
+    Allowance      :     5 (  0.4%)
+    End            :   232 ( 18.4%)
+
+  SELLER (1,231 turns):
+    New Offer      :   115 (  9.3%)
+    Repeat Offer   :   109 (  8.9%)
+    Push           :    59 (  4.8%)
+    Comparison     :    54 (  4.4%)
+    Allowance      :     3 (  0.2%)
+    End            :   225 ( 18.3%)
+
+[Step 6] Act frequency by outcome:
+  Push: sale=4.7%  no-sale=4.3%
+  Comparison: sale=3.9%  no-sale=4.0%
+
+[Step 7] stage3_annotated.csv saved: (2496, 18)
+  Path: /content/optimal-nego/outputs/dealerships_nego/stage3_annotated.csv

@@ -1,0 +1,38 @@
+========================================================================
+TASKS 3B + 3C — heddaya_nego
+========================================================================
+Merged dataset : (5803, 25)
+Conversations  : 178
+z dimensions   : 4 (z_1, z_2, z_3, z_4)
+Sale rate      : 100.0%
+Outcome classes: {1: 178}
+
+[Task 3B] Tactic → latent state shifts
+  Saved task3b_tactic_shifts.csv: (48, 8)
+
+  Dominant shift per act:
+    push_disparagement       z_4   shift=-0.24129↓ n=17
+    push_constraint          z_1   shift=+0.06688↑ n=72
+    comparison_mixed         z_4   shift=+0.06069↑ n=186
+    new_offer                z_1   shift=+0.04930↑ n=848
+    comparison_price         z_4   shift=+0.04702↑ n=534
+    push_neutral             z_2   shift=-0.04343↓ n=511
+    push                     z_1   shift=+0.03812↑ n=600
+    comparison_quality       z_1   shift=+0.03716↑ n=299
+    end                      z_4   shift=+0.03685↑ n=397
+    comparison               z_4   shift=+0.03280↑ n=1019
+    allowance                z_4   shift=+0.03043↑ n=143
+    repeat_offer             z_2   shift=-0.01564↓ n=604
+
+[Task 3C] Feature extraction and horse-race regression
+  Price features : 9
+  SSM features   : 20
+  Tactic features: 19
+
+  Horse-race results:
+    M1_price       AUC=nan overall=nan features=9 status=skipped_single_outcome_class
+    M2_ssm         AUC=nan overall=nan features=20 status=skipped_single_outcome_class
+    M3_price_ssm   AUC=nan overall=nan features=29 status=skipped_single_outcome_class
+    M4_full        AUC=nan overall=nan features=48 status=skipped_single_outcome_class
+
+  Note: Heddaya outcomes were assumed to be all sale. AUC is skipped because ROC-AUC requires both sale and no-sale classes.

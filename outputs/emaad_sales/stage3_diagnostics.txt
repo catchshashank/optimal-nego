@@ -1,0 +1,55 @@
+========================================================================
+STAGE 3: BARGAINING ACT ANNOTATION — emaad_sales
+========================================================================
+[Step 1] Loaded and standardized data
+  Total turns       : 3,414
+  Conversations     : 200
+  Substantive turns : 3,414
+  Backchannels      : 0
+  Outcome values    : ['no sale', 'sale']
+
+[Step 2] Annotating bargaining acts...
+
+[Step 3] Layer 1 coverage:
+  New Offer      :   271 turns (  7.9%)
+  Repeat Offer   :    88 turns (  2.6%)
+  Push           :    98 turns (  2.9%)
+  Comparison     :    69 turns (  2.0%)
+  Allowance      :     5 turns (  0.1%)
+  End            :   222 turns (  6.5%)
+
+  Multi-act turns   :    71 (  2.1%)
+  No-act turns      :  2737 ( 80.2%)
+
+[Step 4] Layer 2 subtype distributions:
+  push_constraint          :     0 (  0.0% of Push)
+  push_disparagement       :     0 (  0.0% of Push)
+  push_neutral             :    98 (100.0% of Push)
+  comparison_price         :    67 ( 97.1% of Comparison)
+  comparison_quality       :     0 (  0.0% of Comparison)
+  comparison_mixed         :     2 (  2.9% of Comparison)
+
+[Step 5] Buyer vs Seller profiles:
+
+  BUYER (1,839 turns):
+    New Offer      :   226 ( 12.3%)
+    Repeat Offer   :    72 (  3.9%)
+    Push           :    39 (  2.1%)
+    Comparison     :    45 (  2.4%)
+    Allowance      :     4 (  0.2%)
+    End            :   133 (  7.2%)
+
+  SELLER (1,575 turns):
+    New Offer      :    45 (  2.9%)
+    Repeat Offer   :    16 (  1.0%)
+    Push           :    59 (  3.7%)
+    Comparison     :    24 (  1.5%)
+    Allowance      :     1 (  0.1%)
+    End            :    89 (  5.7%)
+
+[Step 6] Act frequency by outcome:
+  Push: sale=2.1%  no-sale=4.0%
+  Comparison: sale=2.2%  no-sale=1.8%
+
+[Step 7] stage3_annotated.csv saved: (3414, 18)
+  Path: /content/optimal-nego/outputs/emaad_sales/stage3_annotated.csv

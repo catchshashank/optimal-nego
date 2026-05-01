@@ -1,0 +1,31 @@
+========================================================================
+TASKS 3B + 3C — dealerships_nego
+========================================================================
+Merged dataset : (2478, 25)
+Conversations  : 48
+z dimensions   : 4 (z_1, z_2, z_3, z_4)
+Sale rate      : 47.9%
+Outcome classes: {0: 25, 1: 23}
+
+[Task 3B] Tactic → latent state shifts
+  Saved task3b_tactic_shifts.csv: (28, 8)
+
+  Dominant shift per act:
+    push                     z_2   shift=-0.04580↓ n=114
+    comparison_price         z_1   shift=+0.04349↑ n=93
+    repeat_offer             z_1   shift=-0.04220↓ n=214
+    comparison               z_1   shift=+0.04175↑ n=99
+    new_offer                z_3   shift=+0.03911↑ n=227
+    end                      z_4   shift=-0.03786↓ n=437
+    push_neutral             z_2   shift=-0.03737↓ n=104
+
+[Task 3C] Feature extraction and horse-race regression
+  Price features : 9
+  SSM features   : 20
+  Tactic features: 19
+
+  Horse-race results:
+    M1_price       AUC=0.55 overall=0.5704 features=9 status=ok
+    M2_ssm         AUC=0.712 overall=0.7426 features=20 status=ok
+    M3_price_ssm   AUC=0.676 overall=0.7009 features=29 status=ok
+    M4_full        AUC=0.614 overall=0.6139 features=48 status=ok

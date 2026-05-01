@@ -1,0 +1,5 @@
+model,mean_cv_auc,std_cv_auc,overall_auc,n_features,status
+M1_price,,,,9,skipped_single_outcome_class
+M2_ssm,,,,20,skipped_single_outcome_class
+M3_price_ssm,,,,29,skipped_single_outcome_class
+M4_full,,,,48,skipped_single_outcome_class

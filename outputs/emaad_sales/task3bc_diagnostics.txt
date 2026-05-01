@@ -1,0 +1,31 @@
+========================================================================
+TASKS 3B + 3C — emaad_sales
+========================================================================
+Merged dataset : (3414, 25)
+Conversations  : 200
+z dimensions   : 4 (z_1, z_2, z_3, z_4)
+Sale rate      : 50.0%
+Outcome classes: {0: 100, 1: 100}
+
+[Task 3B] Tactic → latent state shifts
+  Saved task3b_tactic_shifts.csv: (28, 8)
+
+  Dominant shift per act:
+    end                      z_1   shift=-0.12797↓ n=216
+    new_offer                z_1   shift=-0.12707↓ n=271
+    comparison_price         z_4   shift=-0.10521↓ n=67
+    comparison               z_1   shift=-0.10502↓ n=69
+    push                     z_4   shift=+0.08810↑ n=96
+    push_neutral             z_4   shift=+0.08810↑ n=96
+    repeat_offer             z_1   shift=-0.07705↓ n=88
+
+[Task 3C] Feature extraction and horse-race regression
+  Price features : 9
+  SSM features   : 20
+  Tactic features: 19
+
+  Horse-race results:
+    M1_price       AUC=0.7638 overall=0.747 features=9 status=ok
+    M2_ssm         AUC=0.972 overall=0.9724 features=20 status=ok
+    M3_price_ssm   AUC=0.9845 overall=0.9817 features=29 status=ok
+    M4_full        AUC=0.991 overall=0.9876 features=48 status=ok
