@@ -1,0 +1,27 @@
+STAGE 2 DIAGNOSTICS
+==================================================
+Dataset                    : heddaya_nego
+Stage 1 embedded file       : /content/optimal-nego/outputs/heddaya_nego/stage1_turns_embedded.csv
+Turns                       : 6384
+Conversations               : 178
+Retained SST dimensions     : 27
+Observation dimension       : 54
+Dense trajectory sparsity   : 0.0%
+Active dims per turn        : 27.00
+
+Retained emotion dimensions:
+  admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, surprise
+
+BIC model selection:
+  k=2: BIC=-1718639.1
+  k=3: BIC=-1735518.4
+  k=4: BIC=-1748687.9 <- best
+
+Best k                      : 4
+Final log-likelihood        : 875640.66
+Spectral radius A           : 0.9834
+Transition noise Q mean     : 0.4337
+Emission noise R mean       : 0.0020
+
+Outcome prediction:
+  Skipped: missing outcome, one class only, or insufficient class counts.

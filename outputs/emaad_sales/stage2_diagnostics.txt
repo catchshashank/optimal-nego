@@ -1,0 +1,30 @@
+STAGE 2 DIAGNOSTICS
+==================================================
+Dataset                    : emaad_sales
+Stage 1 embedded file       : /content/optimal-nego/outputs/emaad_sales/stage1_turns_embedded.csv
+Turns                       : 3414
+Conversations               : 200
+Retained SST dimensions     : 27
+Observation dimension       : 54
+Dense trajectory sparsity   : 0.0%
+Active dims per turn        : 27.00
+
+Retained emotion dimensions:
+  admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, surprise
+
+BIC model selection:
+  k=2: BIC=-1109541.8
+  k=3: BIC=-1121128.1
+  k=4: BIC=-1131549.8 <- best
+
+Best k                      : 4
+Final log-likelihood        : 566978.98
+Spectral radius A           : 0.9787
+Transition noise Q mean     : 0.3882
+Emission noise R mean       : 0.0043
+
+Outcome prediction:
+  Conversations used         : 200
+  CV folds                   : 5
+  Mean CV AUC                : 0.9835
+  Overall AUC                : 0.9842

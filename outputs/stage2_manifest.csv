@@ -1,0 +1,4 @@
+dataset_name,turns,conversations,retained_sst_dimensions,obs_dim,best_k,best_bic,spectral_radius,mean_cv_auc,overall_auc,output_dir
+dealerships_nego,2480,48,27,54,4,-638932.9258941785,0.9901203487808049,0.844,0.84,/content/optimal-nego/outputs/dealerships_nego
+emaad_sales,3414,200,27,54,4,-1131549.8205213554,0.9787387167458785,0.9834999999999999,0.9842,/content/optimal-nego/outputs/emaad_sales
+heddaya_nego,6384,178,27,54,4,-1748687.8920884037,0.9834021643183872,,,/content/optimal-nego/outputs/heddaya_nego

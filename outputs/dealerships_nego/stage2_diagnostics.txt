@@ -1,0 +1,30 @@
+STAGE 2 DIAGNOSTICS
+==================================================
+Dataset                    : dealerships_nego
+Stage 1 embedded file       : /content/optimal-nego/outputs/dealerships_nego/stage1_turns_embedded.csv
+Turns                       : 2480
+Conversations               : 48
+Retained SST dimensions     : 27
+Observation dimension       : 54
+Dense trajectory sparsity   : 0.0%
+Active dims per turn        : 27.00
+
+Retained emotion dimensions:
+  admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, surprise
+
+BIC model selection:
+  k=2: BIC=-626252.7
+  k=3: BIC=-633619.8
+  k=4: BIC=-638932.9 <- best
+
+Best k                      : 4
+Final log-likelihood        : 320623.23
+Spectral radius A           : 0.9901
+Transition noise Q mean     : 0.3015
+Emission noise R mean       : 0.0024
+
+Outcome prediction:
+  Conversations used         : 48
+  CV folds                   : 5
+  Mean CV AUC                : 0.8440
+  Overall AUC                : 0.8400
