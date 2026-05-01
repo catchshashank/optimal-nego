@@ -1,0 +1,17 @@
+global_row_id,dataset_name,source_file,conversation_id,turn_index,speaker_id,role,start_time,end_time,duration_min,text,outcome,is_backchannel
+dealerships_nego__11,dealerships_nego,dealerships-nego.csv,2026_1,11,0,buyer,71.13999901,71.63999901,,Okay,no sale,True
+dealerships_nego__25,dealerships_nego,dealerships-nego.csv,2026_10,8,1,seller,14.2799949,15.1199989,,Yeah.,sale,True
+dealerships_nego__27,dealerships_nego,dealerships-nego.csv,2026_10,10,1,seller,16.7599983,17.6799965,,Yeah?,sale,True
+dealerships_nego__192,dealerships_nego,dealerships-nego.csv,2026_11,111,0,buyer,683.3600024,685.3600024,,Yeah.,sale,True
+dealerships_nego__220,dealerships_nego,dealerships-nego.csv,2026_13,2,1,seller,5.0,6.0,,Yes.,no sale,True
+dealerships_nego__423,dealerships_nego,dealerships-nego.csv,2026_19,14,1,seller,90.0,95.0,,Yeah.,sale,True
+dealerships_nego__529,dealerships_nego,dealerships-nego.csv,2026_2,8,0,buyer,34.3000021,35.1400022,,Yes.,no sale,True
+dealerships_nego__579,dealerships_nego,dealerships-nego.csv,2026_2,58,0,buyer,305.4800033,306.3200035,,Sure.,no sale,True
+dealerships_nego__1138,dealerships_nego,dealerships-nego.csv,2026_32,63,1,seller,678.0,680.0,,Okay.,no sale ,True
+dealerships_nego__1591,dealerships_nego,dealerships-nego.csv,2026_4,50,1,seller,311.2399979,312.0800018,,Okay.,sale,True
+dealerships_nego__2203,dealerships_nego,dealerships-nego.csv,2026_48,2,1,seller,12.0,55.0,,Sure.,sale,True
+dealerships_nego__2280,dealerships_nego,dealerships-nego.csv,2026_5,4,1,seller,11.5999984,12.5199966,,Okay.,no sale,True
+dealerships_nego__2296,dealerships_nego,dealerships-nego.csv,2026_5,20,1,seller,91.8799972,92.8799972,,Alright.,no sale,True
+dealerships_nego__2422,dealerships_nego,dealerships-nego.csv,2026_9,6,0,buyer,12.70303,12.915151,,Sure.,no sale,True
+dealerships_nego__2426,dealerships_nego,dealerships-nego.csv,2026_9,10,0,buyer,19.9,20.4,,Yeah.,no sale,True
+dealerships_nego__2444,dealerships_nego,dealerships-nego.csv,2026_9,28,0,buyer,86.861429,87.040001,,Sure.,no sale,True

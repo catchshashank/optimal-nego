@@ -1,0 +1,102 @@
+============================================================
+STAGE 1: SST EMBEDDING PIPELINE — dealerships_nego
+============================================================
+
+[Step 1] Loading data and filtering backchannels...
+  Total turns        : 2,496
+  Substantive turns  : 2,480 (99.4%)
+  Backchannels       : 16 (0.6%)
+  Conversations      : 48
+
+[Step 2] Assigning buyer/seller roles...
+  Buyer turns  : 1,233
+  Seller turns : 1,229
+  Unknown      : 18
+  Conversations with both roles: 48/48
+
+[Step 3] Building 27-dim GoEmotions semantic space...
+  Embedding matrix shape: 2480 x 27
+  Vocab size (TF-IDF)   : 4,990
+
+  Mean activation per emotion dimension:
+    approval           0.1762  ██████
+    curiosity          0.1658  ██████
+    admiration         0.0784  ███
+    confusion          0.0579  ██
+    disapproval        0.0490  ██
+    gratitude          0.0415  █
+    optimism           0.0399  █
+    desire             0.0227  █
+    annoyance          0.0205  █
+    excitement         0.0184  █
+    caring             0.0174  █
+    realization        0.0163  █
+    remorse            0.0161  █
+    disappointment     0.0129  
+    love               0.0129  
+    joy                0.0112  
+    surprise           0.0086  
+    sadness            0.0073  
+    amusement          0.0064  
+    anger              0.0039  
+    disgust            0.0020  
+    relief             0.0019  
+    embarrassment      0.0016  
+    fear               0.0016  
+    nervousness        0.0012  
+    pride              0.0011  
+    grief              0.0006  
+
+  Buyer vs Seller mean activation (top 5 differences):
+    admiration         buyer=0.0917  seller=0.0650  Δ=0.0266
+    gratitude          buyer=0.0300  seller=0.0533  Δ=0.0233
+    desire             buyer=0.0274  seller=0.0182  Δ=0.0092
+    caring             buyer=0.0128  seller=0.0219  Δ=0.0090
+    remorse            buyer=0.0121  seller=0.0203  Δ=0.0082
+
+[Step 4] Split-half CCA dimensionality discovery (n_splits=50)...
+
+  Split-half reliability per dimension (threshold r > 0.05):
+    [✓] Dim  1 (admiration        )  r = 0.7160
+    [✓] Dim  2 (amusement         )  r = 0.3334
+    [✓] Dim  3 (anger             )  r = 0.4395
+    [✓] Dim  4 (annoyance         )  r = 0.3534
+    [✓] Dim  5 (approval          )  r = 0.7443
+    [✓] Dim  6 (caring            )  r = 0.3960
+    [✓] Dim  7 (confusion         )  r = 0.3649
+    [✓] Dim  8 (curiosity         )  r = 0.4139
+    [✓] Dim  9 (desire            )  r = 0.5050
+    [✓] Dim 10 (disappointment    )  r = 0.3518
+    [✓] Dim 11 (disapproval       )  r = 0.3549
+    [✓] Dim 12 (disgust           )  r = 0.5585
+    [✓] Dim 13 (embarrassment     )  r = 0.7073
+    [✓] Dim 14 (excitement        )  r = 0.3195
+    [✓] Dim 15 (fear              )  r = 0.6971
+    [✓] Dim 16 (gratitude         )  r = 0.7824
+    [✓] Dim 17 (grief             )  r = 0.5777
+    [✓] Dim 18 (joy               )  r = 0.3595
+    [✓] Dim 19 (love              )  r = 0.3972
+    [✓] Dim 20 (nervousness       )  r = 0.6453
+    [✓] Dim 21 (optimism          )  r = 0.3412
+    [✓] Dim 22 (pride             )  r = 0.4676
+    [✓] Dim 23 (realization       )  r = 0.3472
+    [✓] Dim 24 (relief            )  r = 0.3835
+    [✓] Dim 25 (remorse           )  r = 0.7271
+    [✓] Dim 26 (sadness           )  r = 0.5816
+    [✓] Dim 27 (surprise          )  r = 0.4899
+
+  Retained dimensions : 27 / 27
+  SST dimensionality  : 27
+
+[Step 5] Output files written to /content/optimal-nego/outputs/dealerships_nego/
+  stage1_turns_embedded.csv          — 2,480 turns x 27 retained emotion dims
+  stage1_goemotions_features_full28.csv — 2,480 turns x 28 GoEmotions dims
+  stage1_sst_dimensions.csv          — 27 dims + reliability
+  stage1_backchannels.csv            — 16 backchannel turns
+  stage1_report.txt                  — structured Stage 1 report
+
+============================================================
+STAGE 1 COMPLETE
+SST emotional space: 27-dimensional
+Ready for Stage 2: coupled SSM on buyer/seller trajectories
+============================================================

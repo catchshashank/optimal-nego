@@ -1,0 +1,4 @@
+dataset_name,total_turns,substantive_turns,backchannels,conversations,retained_sst_dimensions,output_dir
+dealerships_nego,2496,2480,16,48,27,/content/optimal-nego/outputs/dealerships_nego
+emaad_sales,3414,3414,0,200,27,/content/optimal-nego/outputs/emaad_sales
+heddaya_nego,7565,6384,1181,178,27,/content/optimal-nego/outputs/heddaya_nego

@@ -1,0 +1,102 @@
+============================================================
+STAGE 1: SST EMBEDDING PIPELINE — emaad_sales
+============================================================
+
+[Step 1] Loading data and filtering backchannels...
+  Total turns        : 3,414
+  Substantive turns  : 3,414 (100.0%)
+  Backchannels       : 0 (0.0%)
+  Conversations      : 200
+
+[Step 2] Assigning buyer/seller roles...
+  Buyer turns  : 1,857
+  Seller turns : 1,557
+  Unknown      : 0
+  Conversations with both roles: 200/200
+
+[Step 3] Building 27-dim GoEmotions semantic space...
+  Embedding matrix shape: 3414 x 27
+  Vocab size (TF-IDF)   : 4,763
+
+  Mean activation per emotion dimension:
+    approval           0.2024  ███████
+    curiosity          0.2012  ███████
+    gratitude          0.1803  ██████
+    admiration         0.1243  ████
+    confusion          0.0584  ██
+    caring             0.0266  █
+    optimism           0.0235  █
+    joy                0.0234  █
+    disapproval        0.0213  █
+    excitement         0.0187  █
+    realization        0.0148  
+    desire             0.0093  
+    love               0.0075  
+    annoyance          0.0072  
+    surprise           0.0058  
+    disappointment     0.0035  
+    relief             0.0034  
+    sadness            0.0021  
+    amusement          0.0019  
+    anger              0.0017  
+    fear               0.0017  
+    pride              0.0015  
+    nervousness        0.0015  
+    remorse            0.0014  
+    disgust            0.0010  
+    embarrassment      0.0006  
+    grief              0.0005  
+
+  Buyer vs Seller mean activation (top 5 differences):
+    confusion          buyer=0.0241  seller=0.0994  Δ=0.0753
+    curiosity          buyer=0.1763  seller=0.2309  Δ=0.0546
+    admiration         buyer=0.1427  seller=0.1024  Δ=0.0403
+    disapproval        buyer=0.0090  seller=0.0359  Δ=0.0270
+    approval           buyer=0.1931  seller=0.2135  Δ=0.0203
+
+[Step 4] Split-half CCA dimensionality discovery (n_splits=50)...
+
+  Split-half reliability per dimension (threshold r > 0.05):
+    [✓] Dim  1 (admiration        )  r = 0.4128
+    [✓] Dim  2 (amusement         )  r = 0.3479
+    [✓] Dim  3 (anger             )  r = 0.6463
+    [✓] Dim  4 (annoyance         )  r = 0.4902
+    [✓] Dim  5 (approval          )  r = 0.4833
+    [✓] Dim  6 (caring            )  r = 0.2756
+    [✓] Dim  7 (confusion         )  r = 0.3557
+    [✓] Dim  8 (curiosity         )  r = 0.4461
+    [✓] Dim  9 (desire            )  r = 0.3480
+    [✓] Dim 10 (disappointment    )  r = 0.4962
+    [✓] Dim 11 (disapproval       )  r = 0.3788
+    [✓] Dim 12 (disgust           )  r = 0.4667
+    [✓] Dim 13 (embarrassment     )  r = 0.4830
+    [✓] Dim 14 (excitement        )  r = 0.3410
+    [✓] Dim 15 (fear              )  r = 0.6506
+    [✓] Dim 16 (gratitude         )  r = 0.6594
+    [✓] Dim 17 (grief             )  r = 0.4041
+    [✓] Dim 18 (joy               )  r = 0.4558
+    [✓] Dim 19 (love              )  r = 0.3628
+    [✓] Dim 20 (nervousness       )  r = 0.5039
+    [✓] Dim 21 (optimism          )  r = 0.3241
+    [✓] Dim 22 (pride             )  r = 0.3241
+    [✓] Dim 23 (realization       )  r = 0.3358
+    [✓] Dim 24 (relief            )  r = 0.3799
+    [✓] Dim 25 (remorse           )  r = 0.7375
+    [✓] Dim 26 (sadness           )  r = 0.6713
+    [✓] Dim 27 (surprise          )  r = 0.3494
+
+  Retained dimensions : 27 / 27
+  SST dimensionality  : 27
+
+[Step 5] Output files written to /content/optimal-nego/outputs/emaad_sales/
+  stage1_turns_embedded.csv          — 3,414 turns x 27 retained emotion dims
+  stage1_goemotions_features_full28.csv — 3,414 turns x 28 GoEmotions dims
+  stage1_sst_dimensions.csv          — 27 dims + reliability
+  stage1_backchannels.csv            — 0 backchannel turns
+  stage1_report.txt                  — structured Stage 1 report
+
+============================================================
+STAGE 1 COMPLETE
+SST emotional space: 27-dimensional
+Ready for Stage 2: coupled SSM on buyer/seller trajectories
+============================================================

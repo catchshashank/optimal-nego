@@ -1,0 +1,102 @@
+============================================================
+STAGE 1: SST EMBEDDING PIPELINE — heddaya_nego
+============================================================
+
+[Step 1] Loading data and filtering backchannels...
+  Total turns        : 7,565
+  Substantive turns  : 6,384 (84.4%)
+  Backchannels       : 1,181 (15.6%)
+  Conversations      : 178
+
+[Step 2] Assigning buyer/seller roles...
+  Buyer turns  : 3,243
+  Seller turns : 3,141
+  Unknown      : 0
+  Conversations with both roles: 178/178
+
+[Step 3] Building 27-dim GoEmotions semantic space...
+  Embedding matrix shape: 6384 x 27
+  Vocab size (TF-IDF)   : 8,761
+
+  Mean activation per emotion dimension:
+    approval           0.1444  █████
+    admiration         0.0663  ██
+    curiosity          0.0488  ██
+    confusion          0.0385  █
+    disapproval        0.0371  █
+    optimism           0.0259  █
+    realization        0.0200  █
+    desire             0.0192  █
+    love               0.0178  █
+    remorse            0.0150  
+    gratitude          0.0140  
+    excitement         0.0126  
+    disappointment     0.0114  
+    joy                0.0109  
+    annoyance          0.0099  
+    sadness            0.0080  
+    caring             0.0076  
+    surprise           0.0062  
+    fear               0.0038  
+    amusement          0.0030  
+    anger              0.0022  
+    nervousness        0.0020  
+    disgust            0.0020  
+    relief             0.0016  
+    embarrassment      0.0011  
+    pride              0.0009  
+    grief              0.0006  
+
+  Buyer vs Seller mean activation (top 5 differences):
+    approval           buyer=0.1346  seller=0.1545  Δ=0.0199
+    admiration         buyer=0.0578  seller=0.0751  Δ=0.0173
+    curiosity          buyer=0.0528  seller=0.0448  Δ=0.0080
+    disapproval        buyer=0.0341  seller=0.0403  Δ=0.0062
+    love               buyer=0.0208  seller=0.0147  Δ=0.0061
+
+[Step 4] Split-half CCA dimensionality discovery (n_splits=50)...
+
+  Split-half reliability per dimension (threshold r > 0.05):
+    [✓] Dim  1 (admiration        )  r = 0.7107
+    [✓] Dim  2 (amusement         )  r = 0.5522
+    [✓] Dim  3 (anger             )  r = 0.6281
+    [✓] Dim  4 (annoyance         )  r = 0.4595
+    [✓] Dim  5 (approval          )  r = 0.5917
+    [✓] Dim  6 (caring            )  r = 0.5159
+    [✓] Dim  7 (confusion         )  r = 0.5310
+    [✓] Dim  8 (curiosity         )  r = 0.4947
+    [✓] Dim  9 (desire            )  r = 0.6465
+    [✓] Dim 10 (disappointment    )  r = 0.4425
+    [✓] Dim 11 (disapproval       )  r = 0.5236
+    [✓] Dim 12 (disgust           )  r = 0.5490
+    [✓] Dim 13 (embarrassment     )  r = 0.6994
+    [✓] Dim 14 (excitement        )  r = 0.4605
+    [✓] Dim 15 (fear              )  r = 0.5482
+    [✓] Dim 16 (gratitude         )  r = 0.8533
+    [✓] Dim 17 (grief             )  r = 0.6274
+    [✓] Dim 18 (joy               )  r = 0.4643
+    [✓] Dim 19 (love              )  r = 0.4972
+    [✓] Dim 20 (nervousness       )  r = 0.5632
+    [✓] Dim 21 (optimism          )  r = 0.4403
+    [✓] Dim 22 (pride             )  r = 0.5425
+    [✓] Dim 23 (realization       )  r = 0.4265
+    [✓] Dim 24 (relief            )  r = 0.4501
+    [✓] Dim 25 (remorse           )  r = 0.9607
+    [✓] Dim 26 (sadness           )  r = 0.6761
+    [✓] Dim 27 (surprise          )  r = 0.8161
+
+  Retained dimensions : 27 / 27
+  SST dimensionality  : 27
+
+[Step 5] Output files written to /content/optimal-nego/outputs/heddaya_nego/
+  stage1_turns_embedded.csv          — 6,384 turns x 27 retained emotion dims
+  stage1_goemotions_features_full28.csv — 6,384 turns x 28 GoEmotions dims
+  stage1_sst_dimensions.csv          — 27 dims + reliability
+  stage1_backchannels.csv            — 1,181 backchannel turns
+  stage1_report.txt                  — structured Stage 1 report
+
+============================================================
+STAGE 1 COMPLETE
+SST emotional space: 27-dimensional
+Ready for Stage 2: coupled SSM on buyer/seller trajectories
+============================================================
