@@ -2,8 +2,9 @@ STAGE 2 DIAGNOSTICS
 ==================================================
 Dataset                    : heddaya_nego
 Stage 1 embedded file       : /content/optimal-nego/outputs/heddaya_nego/stage1_turns_embedded.csv
+Concession target file      : /content/optimal-nego/data/heddaya-nego-with-concessions.csv
 Turns                       : 6384
-Conversations               : 178
+Conversations in Stage 1    : 178
 Retained SST dimensions     : 27
 Observation dimension       : 54
 Dense trajectory sparsity   : 0.0%
@@ -23,5 +24,10 @@ Spectral radius A           : 0.9834
 Transition noise Q mean     : 0.4337
 Emission noise R mean       : 0.0020
 
-Outcome prediction:
-  Skipped: missing outcome, one class only, or insufficient class counts.
+M1–M6 logit models:
+  M1: AUC=0.5303, Acc=0.5314, F1=0.3692, n=175, n1=53
+  M2: AUC=0.5722, Acc=0.6057, F1=0.1882, n=175, n1=19
+  M3: AUC=0.4796, Acc=0.5257, F1=0.4029, n=175, n1=53
+  M4: AUC=0.4954, Acc=0.4629, F1=0.4268, n=175, n1=86
+  M5: AUC=0.8035, Acc=0.7200, F1=0.7860, n=175, n1=127
+  M6: AUC=0.4794, Acc=0.4914, F1=0.3776, n=175, n1=65
