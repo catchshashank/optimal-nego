@@ -1,0 +1,2 @@
+outcome,n,n_0,n_1,auc,accuracy,precision,recall,f1
+outcome_binary,48,25,23,0.6939130434782608,0.6875,0.7,0.6086956521739131,0.6511627906976745
