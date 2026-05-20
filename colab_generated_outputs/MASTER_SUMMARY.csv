@@ -1,0 +1,5 @@
+Dataset,Conversations,Total turns,#1 emotion,Anger rank,Sig correlations,Best CV AUC,Outcomes used
+dealerships,48,2480,approval,20,37,0.694,outcome_binary
+heddaya,178,6384,approval,21,0,—,—
+casino,1030,14232,approval,23,0,—,—
+emaad,200,3414,approval,20,182,0.997,outcome_binary
