@@ -1,0 +1,2 @@
+outcome,n,n_pos,n_neg,cv_auc,accuracy,f1,precision,recall,dataset
+outcome_binary,405,247,158,0.9702,0.9358,0.9474,0.9474,0.9474,a2a
