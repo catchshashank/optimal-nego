@@ -1,0 +1,2 @@
+Dataset,Conversations,Total turns,#1 emotion,Anger rank,Sig correlations,Best CV AUC,Outcomes used
+a2a,405,3332,admiration,23,167,0.951,outcome_binary

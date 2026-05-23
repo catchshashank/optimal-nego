@@ -1,0 +1,2 @@
+Dataset,Type,Conversations,Total turns,Avg turns/conv,Emotion dims,Buyer turns,Seller turns,Outcomes
+a2a,—,405,3332,8.2,27,1857,1475,outcome_binary
