@@ -1,0 +1,33 @@
+global_row_id,dataset_name,source_file,conversation_id,turn_index,speaker_id,role,start_time,end_time,duration_min,text,outcome,is_backchannel
+a2a_nego__2497,a2a_nego,a2a-negotiations.csv,304,23,Buyer,buyer,,,,Thanks!,max_turns_reached,True
+a2a_nego__2502,a2a_nego,a2a-negotiations.csv,304,28,Buyer,buyer,,,,Thanks!,max_turns_reached,True
+a2a_nego__2511,a2a_nego,a2a-negotiations.csv,304,37,Buyer,buyer,,,,Thanks!,max_turns_reached,True
+a2a_nego__3089,a2a_nego,a2a-negotiations.csv,381,10,Seller,seller,,,,Thank you!,rejected,True
+a2a_nego__3091,a2a_nego,a2a-negotiations.csv,381,12,Seller,seller,,,,Thank you!,rejected,True
+a2a_nego__3202,a2a_nego,a2a-negotiations.csv,396,11,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3283,a2a_nego,a2a-negotiations.csv,399,11,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3285,a2a_nego,a2a-negotiations.csv,399,13,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3287,a2a_nego,a2a-negotiations.csv,399,15,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3289,a2a_nego,a2a-negotiations.csv,399,17,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3291,a2a_nego,a2a-negotiations.csv,399,19,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3293,a2a_nego,a2a-negotiations.csv,399,21,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3295,a2a_nego,a2a-negotiations.csv,399,23,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3297,a2a_nego,a2a-negotiations.csv,399,25,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3299,a2a_nego,a2a-negotiations.csv,399,27,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3301,a2a_nego,a2a-negotiations.csv,399,29,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3303,a2a_nego,a2a-negotiations.csv,399,31,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3305,a2a_nego,a2a-negotiations.csv,399,33,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3307,a2a_nego,a2a-negotiations.csv,399,35,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3309,a2a_nego,a2a-negotiations.csv,399,37,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3311,a2a_nego,a2a-negotiations.csv,399,39,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3313,a2a_nego,a2a-negotiations.csv,399,41,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3315,a2a_nego,a2a-negotiations.csv,399,43,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3317,a2a_nego,a2a-negotiations.csv,399,45,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3319,a2a_nego,a2a-negotiations.csv,399,47,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3321,a2a_nego,a2a-negotiations.csv,399,49,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3323,a2a_nego,a2a-negotiations.csv,399,51,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3325,a2a_nego,a2a-negotiations.csv,399,53,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3327,a2a_nego,a2a-negotiations.csv,399,55,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3329,a2a_nego,a2a-negotiations.csv,399,57,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3331,a2a_nego,a2a-negotiations.csv,399,59,Buyer,buyer,,,,Thank you!,max_turns_reached,True
+a2a_nego__3333,a2a_nego,a2a-negotiations.csv,399,61,Buyer,buyer,,,,Thank you!,max_turns_reached,True

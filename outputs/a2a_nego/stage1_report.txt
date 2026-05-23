@@ -1,0 +1,102 @@
+============================================================
+STAGE 1: SST EMBEDDING PIPELINE — a2a_nego
+============================================================
+
+[Step 1] Loading data and filtering backchannels...
+  Total turns        : 3,364
+  Substantive turns  : 3,332 (99.0%)
+  Backchannels       : 32 (1.0%)
+  Conversations      : 405
+
+[Step 2] Assigning buyer/seller roles...
+  Buyer turns  : 1,857
+  Seller turns : 1,475
+  Unknown      : 0
+  Conversations with both roles: 399/405
+
+[Step 3] Building 27-dim GoEmotions semantic space...
+  Embedding matrix shape: 3332 x 27
+  Vocab size (TF-IDF)   : 7,869
+
+  Mean activation per emotion dimension:
+    admiration         0.3594  ██████████
+    gratitude          0.3031  ██████████
+    curiosity          0.2880  ██████████
+    approval           0.1454  █████
+    optimism           0.0759  ███
+    excitement         0.0440  █
+    desire             0.0353  █
+    joy                0.0337  █
+    confusion          0.0311  █
+    caring             0.0295  █
+    disapproval        0.0198  █
+    love               0.0168  █
+    disappointment     0.0124  
+    fear               0.0091  
+    sadness            0.0089  
+    realization        0.0085  
+    surprise           0.0077  
+    annoyance          0.0060  
+    relief             0.0045  
+    remorse            0.0033  
+    pride              0.0029  
+    amusement          0.0022  
+    anger              0.0020  
+    nervousness        0.0018  
+    disgust            0.0014  
+    grief              0.0014  
+    embarrassment      0.0008  
+
+  Buyer vs Seller mean activation (top 5 differences):
+    gratitude          buyer=0.3667  seller=0.2230  Δ=0.1438
+    admiration         buyer=0.3002  seller=0.4339  Δ=0.1337
+    curiosity          buyer=0.3321  seller=0.2325  Δ=0.0995
+    approval           buyer=0.1120  seller=0.1875  Δ=0.0755
+    optimism           buyer=0.0922  seller=0.0554  Δ=0.0368
+
+[Step 4] Split-half CCA dimensionality discovery (n_splits=50)...
+
+  Split-half reliability per dimension (threshold r > 0.05):
+    [✓] Dim  1 (admiration        )  r = 0.5434
+    [✓] Dim  2 (amusement         )  r = 0.5586
+    [✓] Dim  3 (anger             )  r = 0.4866
+    [✓] Dim  4 (annoyance         )  r = 0.4808
+    [✓] Dim  5 (approval          )  r = 0.4806
+    [✓] Dim  6 (caring            )  r = 0.6331
+    [✓] Dim  7 (confusion         )  r = 0.4466
+    [✓] Dim  8 (curiosity         )  r = 0.5341
+    [✓] Dim  9 (desire            )  r = 0.5111
+    [✓] Dim 10 (disappointment    )  r = 0.4889
+    [✓] Dim 11 (disapproval       )  r = 0.4293
+    [✓] Dim 12 (disgust           )  r = 0.7439
+    [✓] Dim 13 (embarrassment     )  r = 0.5297
+    [✓] Dim 14 (excitement        )  r = 0.4816
+    [✓] Dim 15 (fear              )  r = 0.8515
+    [✓] Dim 16 (gratitude         )  r = 0.7608
+    [✓] Dim 17 (grief             )  r = 0.7727
+    [✓] Dim 18 (joy               )  r = 0.5678
+    [✓] Dim 19 (love              )  r = 0.5494
+    [✓] Dim 20 (nervousness       )  r = 0.7842
+    [✓] Dim 21 (optimism          )  r = 0.6674
+    [✓] Dim 22 (pride             )  r = 0.4639
+    [✓] Dim 23 (realization       )  r = 0.4371
+    [✓] Dim 24 (relief            )  r = 0.5649
+    [✓] Dim 25 (remorse           )  r = 0.8110
+    [✓] Dim 26 (sadness           )  r = 0.7695
+    [✓] Dim 27 (surprise          )  r = 0.5823
+
+  Retained dimensions : 27 / 27
+  SST dimensionality  : 27
+
+[Step 5] Output files written to /content/optimal-nego/outputs/a2a_nego/
+  stage1_turns_embedded.csv          — 3,332 turns x 27 retained emotion dims
+  stage1_goemotions_features_full28.csv — 3,332 turns x 28 GoEmotions dims
+  stage1_sst_dimensions.csv          — 27 dims + reliability
+  stage1_backchannels.csv            — 32 backchannel turns
+  stage1_report.txt                  — structured Stage 1 report
+
+============================================================
+STAGE 1 COMPLETE
+SST emotional space: 27-dimensional
+Ready for Stage 2: coupled SSM on buyer/seller trajectories
+============================================================
