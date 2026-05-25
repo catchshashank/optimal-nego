@@ -1,5 +1,0 @@
-Dataset,Type,Conversations,Total turns,Avg turns/conv,Emotion dims,Buyer turns,Seller turns,Outcomes
-dealerships,Distributive/Real,48,2480,51.7,27,1233,1247,outcome_binary
-heddaya,Distributive/Real,178,6384,35.9,27,3243,3141,none
-casino,Integrative/Lab,1030,14232,13.8,27,7107,7125,none
-emaad,Scripted/Sales,200,3414,17.1,27,1857,1557,outcome_binary

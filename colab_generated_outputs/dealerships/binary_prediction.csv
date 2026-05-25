@@ -1,2 +1,0 @@
-outcome,n,n_pos,n_neg,cv_auc,accuracy,f1,precision,recall,dataset
-outcome_binary,48,23,25,0.6939,0.6875,0.6512,0.7,0.6087,dealerships
