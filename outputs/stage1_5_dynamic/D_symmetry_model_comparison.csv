@@ -1,2 +1,3 @@
 dataset,A_buyer_only,B_seller_only,C_diff_b_minus_s,D_combined_ridge,D_combined_lasso
-a2a_nego,0.9651,0.873,0.7816,0.9745,0.9621
+dealerships,0.84,0.6,1.0,0.8,0.52
+emaad,0.975,0.895,0.985,0.945,0.9975
